@@ -775,3 +775,6 @@ D:\1.BMS Inventory Code\BMS\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
 D:\1.BMS Inventory Code\BMS\bin\x86\Debug\DevExpress.XtraPrinting.v11.1.xml
 D:\1.BMS Inventory Code\BMS\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.xml
 D:\1.BMS Inventory Code\BMS\bin\x86\Debug\IEBusiness.pdb
+D:\GIT\NVTHAO\1.BMS Inventory Code\BMS\bin\x86\Debug\DesignSupportSystem.exe.config
+D:\GIT\NVTHAO\1.BMS Inventory Code\BMS\obj\x86\Debug\DesignSupportSystem.exe
+D:\GIT\NVTHAO\1.BMS Inventory Code\BMS\obj\x86\Debug\DesignSupportSystem.pdb
