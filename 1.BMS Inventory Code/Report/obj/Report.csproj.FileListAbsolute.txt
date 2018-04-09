@@ -1,0 +1,807 @@
+D:\CompanyWork\CSSCompany\Sales_CSSolution\Sales\Report\bin\Debug\Report.dll
+D:\CompanyWork\CSSCompany\Sales_CSSolution\Sales\Report\bin\Debug\Report.pdb
+D:\CompanyWork\CSSCompany\Sales_CSSolution\Sales\Report\obj\Debug\ResolveAssemblyReference.cache
+D:\CompanyWork\CSSCompany\Sales_CSSolution\Sales\Report\obj\Debug\Report.Properties.Resources.resources
+D:\CompanyWork\CSSCompany\Sales_CSSolution\Sales\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\CompanyWork\CSSCompany\Sales_CSSolution\Sales\Report\obj\Debug\Report.dll
+D:\CompanyWork\CSSCompany\Sales_CSSolution\Sales\Report\obj\Debug\Report.pdb
+D:\CSS\Source Code\APP\Sales\Report\bin\Debug\Report.dll
+D:\CSS\Source Code\APP\Sales\Report\bin\Debug\Report.pdb
+D:\CSS\Source Code\APP\Sales\Report\obj\Debug\ResolveAssemblyReference.cache
+D:\CSS\Source Code\APP\Sales\Report\obj\Debug\Report.Properties.Resources.resources
+D:\CSS\Source Code\APP\Sales\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\CSS\Source Code\APP\Sales\Report\obj\Debug\Report.dll
+D:\CSS\Source Code\APP\Sales\Report\obj\Debug\Report.pdb
+C:\Users\KHUYEN\Desktop\Sales\Sales\Report\bin\Release\Report.dll
+C:\Users\KHUYEN\Desktop\Sales\Sales\Report\bin\Release\Report.pdb
+C:\Users\KHUYEN\Desktop\Sales\Sales\Report\obj\Release\ResolveAssemblyReference.cache
+C:\Users\KHUYEN\Desktop\Sales\Sales\Report\obj\Release\Report.Properties.Resources.resources
+C:\Users\KHUYEN\Desktop\Sales\Sales\Report\obj\Release\Report.csproj.GenerateResource.Cache
+C:\Users\KHUYEN\Desktop\Sales\Sales\Report\obj\Release\Report.dll
+C:\Users\KHUYEN\Desktop\Sales\Sales\Report\obj\Release\Report.pdb
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Release\ResolveAssemblyReference.cache
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Release\Report.Report2.rpt
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Release\Report.rptGoodsListpolicyDetail.rpt
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Release\Report.Form1.resources
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Release\Report.Form2.resources
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Release\Report.Properties.Resources.resources
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Release\Report.csproj.GenerateResource.Cache
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Debug\Report.Report2.rpt
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Debug\Report.rptGoodsListpolicyDetail.rpt
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Debug\Report.Form1.resources
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Debug\Report.Form2.resources
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Debug\Report.Properties.Resources.resources
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Debug\Report.dll
+C:\Users\KHUYEN\Desktop\Sales\Report\bin\Release\Report.dll
+C:\Users\KHUYEN\Desktop\Sales\Report\bin\Release\Report.pdb
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Release\Report.dll
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Release\Report.pdb
+C:\Users\KHUYEN\Desktop\Sales\Report\bin\Debug\Report.dll
+C:\Users\KHUYEN\Desktop\Sales\Report\bin\Debug\Report.pdb
+C:\Users\KHUYEN\Desktop\Sales\Report\obj\Debug\Report.pdb
+E:\quan li\CSSolution\Sales chuẩn\Report\bin\Debug\Report.dll
+E:\quan li\CSSolution\Sales chuẩn\Report\bin\Debug\Report.pdb
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Debug\ResolveAssemblyReference.cache
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Debug\Report.Report2.rpt
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Debug\Report.rptGoodsListpolicyDetail.rpt
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Debug\Report.Form1.resources
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Debug\Report.Form2.resources
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Debug\Report.Properties.Resources.resources
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Debug\Report.dll
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Debug\Report.pdb
+E:\quan li\CSSolution\Sales chuẩn\Report\bin\Release\Report.dll
+E:\quan li\CSSolution\Sales chuẩn\Report\bin\Release\Report.pdb
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Release\ResolveAssemblyReference.cache
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Release\Report.Report2.rpt
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Release\Report.rptGoodsListpolicyDetail.rpt
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Release\Report.Form1.resources
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Release\Report.Form2.resources
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Release\Report.Properties.Resources.resources
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Release\Report.csproj.GenerateResource.Cache
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Release\Report.dll
+E:\quan li\CSSolution\Sales chuẩn\Report\obj\Release\Report.pdb
+D:\work\Sale\New folder\Report\obj\Debug\ResolveAssemblyReference.cache
+D:\work\Sale\New folder\Report\obj\Debug\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCDoanhSoTheoKhachHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCDoanhSoTheoMatHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\Report.Form1.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCNXTTheoKhoHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCNXTTheoLoaiHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCNXTTheoThuongHieu.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCXuatHangTheoKhachHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBCNXTTheoMatHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBCTongHopTonKho.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBCXuatHangTheoMatHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiTra.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmDanhSachKhachHangGiaoDich.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmDanhSachKHTheoDonDatHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmNhapKhoTheoMatHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiThu.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiTra.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmTongHopTheoThuongHieu.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmTongHopThepNguoiBan.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmRepostSalescs.resources
+D:\work\Sale\New folder\Report\obj\Debug\Report.Properties.Resources.resources
+D:\work\Sale\New folder\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\work\Sale\New folder\Report\obj\Debug\Report.dll.licenses
+D:\work\Sale\New folder\Report\obj\Debug\Report.dll
+D:\work\Sale\New folder\Report\obj\Debug\Report.pdb
+D:\work\Sale\New folder\Report\bin\Debug\Report.dll
+D:\work\Sale\New folder\Report\bin\Debug\Report.pdb
+D:\work\Sale\New folder\Report\bin\Debug\BaseBusiness.dll
+D:\work\Sale\New folder\Report\bin\Debug\Customers.exe
+D:\work\Sale\New folder\Report\bin\Debug\Goods.dll
+D:\work\Sale\New folder\Report\bin\Debug\Utilities.dll
+D:\work\Sale\New folder\Report\bin\Debug\PagingControl.dll
+D:\work\Sale\New folder\Report\bin\Debug\Transactions.dll
+D:\work\Sale\New folder\Report\bin\Debug\Shorty.Windows.Forms.dll
+D:\work\Sale\New folder\Report\bin\Debug\Utilities.pdb
+D:\work\Sale\New folder\Report\bin\Debug\PagingControl.pdb
+D:\work\Sale\New folder\Report\bin\Debug\Customers.pdb
+D:\work\Sale\New folder\Report\bin\Debug\Goods.pdb
+D:\work\Sale\New folder\Report\bin\Debug\Transactions.pdb
+D:\work\Sale\New folder\Report\bin\Debug\BaseBusiness.pdb
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Report.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Report.pdb
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\BaseBusiness.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\CrystalDecisions.Shared.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Goods.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Utilities.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\PagingControl.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Transactions.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Utilities.pdb
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\CrystalDecisions.Windows.Forms.xml
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Customers.pdb
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Goods.pdb
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\CrystalDecisions.Shared.xml
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\CrystalDecisions.ReportSource.xml
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\BaseBusiness.pdb
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\ResolveAssemblyReference.cache
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.BCDoanhSoTheoKhachHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.BCDoanhSoTheoMatHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Form1.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.BCNXTTheoKhoHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.BCNXTTheoLoaiHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.BCNXTTheoThuongHieu.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.BCXuatHangTheoKhachHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmBCNXTTheoMatHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmBCTongHopTonKho.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmBCXuatHangTheoMatHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiTra.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmDanhSachKhachHangGiaoDich.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmDanhSachKHTheoDonDatHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmNhapKhoTheoMatHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiThu.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiTra.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmTongHopTheoThuongHieu.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmTongHopThepNguoiBan.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\CEFA.frmRepostSalescs.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Properties.Resources.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.dll.licenses
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.pdb
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.frmReportMains.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.AR.uc_CustormerTransactions.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.AR.uc_CustormerByContract.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.AR.uc_CustormerByOrder.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.AR.uc_ARDetailByCustormer.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.AR.uc_ARDetailPayableToSuppliers.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.AR.uc_ARReceivableTotal.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.AR.uc_ARPayableTotal.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Inv.ucBC_ChiTietNXTTheoMatHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopCacKhoTheoLoaiHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNSXTheoThuongHieu.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTCacKho.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTKhoHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTTheoMatHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.TurnOver.ucBC_DanhSoTheoMatHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoHoaDonBanHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoKH.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoKH.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoLoaiMH.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoMatHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoThuongHieu.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoLoaiMatHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoNhaCungCap.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoKH.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoLoaiMatHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Inv.uc_TongHopTonKho.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\Report.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\Report.pdb
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\BaseBusiness.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\Customers.exe
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\Goods.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\Utilities.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\PagingControl.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\Transactions.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\Shorty.Windows.Forms.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\Utilities.pdb
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\CrystalDecisions.Windows.Forms.xml
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\Customers.pdb
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\Goods.pdb
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\Transactions.pdb
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\CrystalDecisions.Shared.xml
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\CrystalDecisions.ReportSource.xml
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\bin\Debug\BaseBusiness.pdb
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.AR.uc_ARDetailByCustormer.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.AR.uc_ARDetailPayableToSuppliers.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.AR.uc_ARPayableTotal.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.AR.uc_ARReceivableTotal.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.AR.uc_CustormerByContract.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.AR.uc_CustormerByOrder.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.AR.uc_CustormerTransactions.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.BCDoanhSoTheoKhachHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.BCDoanhSoTheoMatHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.Form1.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.BCNXTTheoKhoHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.BCNXTTheoLoaiHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.BCNXTTheoThuongHieu.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.BCXuatHangTheoKhachHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmBCNXTTheoMatHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmBCTongHopTonKho.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmBCXuatHangTheoMatHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiTra.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmDanhSachKhachHangGiaoDich.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmDanhSachKHTheoDonDatHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmNhapKhoTheoMatHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiThu.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiTra.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmTongHopTheoThuongHieu.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmTongHopThepNguoiBan.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.frmReportMains.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\CEFA.frmRepostSalescs.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.Inv.ucBC_ChiTietNXTTheoMatHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoLoaiMatHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoNhaCungCap.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopCacKhoTheoLoaiHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNSXTheoThuongHieu.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTCacKho.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTKhoHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTTheoMatHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.Inv.uc_TongHopTonKho.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoKH.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoLoaiMatHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.Properties.Resources.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.TurnOver.ucBC_DanhSoTheoMatHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoHoaDonBanHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoKH.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoKH.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoLoaiMH.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoMatHang.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoThuongHieu.resources
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.dll.licenses
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.dll
+C:\Users\datdp\Desktop\Sale_240212\Sale\Report\obj\Debug\Report.pdb
+D:\work\Sale\Sale\Report\obj\Debug\ResolveAssemblyReference.cache
+D:\work\Sale\Sale\Report\obj\Debug\Report.AR.uc_ARDetailByCustormer.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.AR.uc_ARDetailPayableToSuppliers.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.AR.uc_ARPayableTotal.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.AR.uc_ARReceivableTotal.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.AR.uc_CustormerByContract.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.AR.uc_CustormerByOrder.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.AR.uc_CustormerTransactions.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.BCDoanhSoTheoKhachHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.BCDoanhSoTheoMatHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Form1.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.BCNXTTheoKhoHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.BCNXTTheoLoaiHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.BCNXTTheoThuongHieu.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.BCXuatHangTheoKhachHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmBCNXTTheoMatHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmBCTongHopTonKho.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmBCXuatHangTheoMatHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiTra.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmDanhSachKhachHangGiaoDich.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmDanhSachKHTheoDonDatHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmNhapKhoTheoMatHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiThu.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiTra.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmTongHopTheoThuongHieu.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmTongHopThepNguoiBan.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.frmReportMains.resources
+D:\work\Sale\Sale\Report\obj\Debug\CEFA.frmRepostSalescs.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Inv.ucBC_ChiTietNXTTheoMatHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoLoaiMatHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoNhaCungCap.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopCacKhoTheoLoaiHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNSXTheoThuongHieu.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTCacKho.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTKhoHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTTheoMatHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Inv.uc_TongHopTonKho.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoKH.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoLoaiMatHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Properties.Resources.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.TurnOver.ucBC_DanhSoTheoMatHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoHoaDonBanHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoKH.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoKH.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoLoaiMH.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoMatHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoThuongHieu.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\work\Sale\Sale\Report\obj\Debug\Report.dll.licenses
+D:\work\Sale\Sale\Report\bin\Debug\Report.dll
+D:\work\Sale\Sale\Report\bin\Debug\Report.pdb
+D:\work\Sale\Sale\Report\bin\Debug\BaseBusiness.dll
+D:\work\Sale\Sale\Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\work\Sale\Sale\Report\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+D:\work\Sale\Sale\Report\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\work\Sale\Sale\Report\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\work\Sale\Sale\Report\bin\Debug\CrystalDecisions.Shared.dll
+D:\work\Sale\Sale\Report\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\work\Sale\Sale\Report\bin\Debug\Customers.exe
+D:\work\Sale\Sale\Report\bin\Debug\Goods.dll
+D:\work\Sale\Sale\Report\bin\Debug\Utilities.dll
+D:\work\Sale\Sale\Report\bin\Debug\PagingControl.dll
+D:\work\Sale\Sale\Report\bin\Debug\Transactions.dll
+D:\work\Sale\Sale\Report\bin\Debug\Utilities.pdb
+D:\work\Sale\Sale\Report\bin\Debug\CrystalDecisions.Windows.Forms.xml
+D:\work\Sale\Sale\Report\bin\Debug\Customers.pdb
+D:\work\Sale\Sale\Report\bin\Debug\Goods.pdb
+D:\work\Sale\Sale\Report\bin\Debug\CrystalDecisions.Shared.xml
+D:\work\Sale\Sale\Report\bin\Debug\CrystalDecisions.ReportSource.xml
+D:\work\Sale\Sale\Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+D:\work\Sale\Sale\Report\bin\Debug\BaseBusiness.pdb
+D:\work\Sale\Sale\Report\obj\Debug\Report.dll
+D:\work\Sale\Sale\Report\obj\Debug\Report.pdb
+D:\work\Sale\Sale\Report\obj\Debug\Report.Cons.uc_BanHangTheoMH.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Cons.uc_BanHangTheoKH.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Cons.uc_TongHopTieuThuTheoNhomHang.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Cons.uc_SoSanhTieuThuTheoQuay.resources
+D:\work\Sale\Sale\Report\obj\Debug\Report.Cons.uc_Cons.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Cons.uc_Cons.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Cons.uc_TongHopTieuThuTheoNhomHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Cons.uc_BanHangTheoKH.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Cons.uc_BanHangTheoMH.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Froms_Declaration.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Froms_Declaration.pdb
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Cons.ucSale_ByDate.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Cons.ucSale_CompareByDate.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Cons.uc_Sale_CompareByZone.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Cons.ucBC_SoSanhTieuThuTheoQuay.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\obj\Debug\Report.Cons.ucBC_PhanTichTieuThuTheoNVBanHang.resources
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Shorty.Windows.Forms.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Inventory.dll
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Transactions.pdb
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Inventory.pdb
+D:\datdp\PROJECT\VS_2005\SALE\Sale\Report\bin\Debug\Customers.dll
+F:\SALE_SUN\Report\bin\Debug\Report.dll
+F:\SALE_SUN\Report\bin\Debug\Report.pdb
+F:\SALE_SUN\Report\bin\Debug\BaseBusiness.dll
+F:\SALE_SUN\Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\SALE_SUN\Report\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+F:\SALE_SUN\Report\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+F:\SALE_SUN\Report\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\SALE_SUN\Report\bin\Debug\CrystalDecisions.Shared.dll
+F:\SALE_SUN\Report\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\SALE_SUN\Report\bin\Debug\Customers.dll
+F:\SALE_SUN\Report\bin\Debug\Froms_Declaration.dll
+F:\SALE_SUN\Report\bin\Debug\Goods.dll
+F:\SALE_SUN\Report\bin\Debug\Utilities.dll
+F:\SALE_SUN\Report\bin\Debug\PagingControl.dll
+F:\SALE_SUN\Report\bin\Debug\Transactions.dll
+F:\SALE_SUN\Report\bin\Debug\Shorty.Windows.Forms.dll
+F:\SALE_SUN\Report\bin\Debug\Inventory.dll
+F:\SALE_SUN\Report\bin\Debug\Utilities.pdb
+F:\SALE_SUN\Report\bin\Debug\Froms_Declaration.pdb
+F:\SALE_SUN\Report\bin\Debug\CrystalDecisions.Windows.Forms.xml
+F:\SALE_SUN\Report\bin\Debug\Customers.pdb
+F:\SALE_SUN\Report\bin\Debug\Goods.pdb
+F:\SALE_SUN\Report\bin\Debug\Transactions.pdb
+F:\SALE_SUN\Report\bin\Debug\CrystalDecisions.Shared.xml
+F:\SALE_SUN\Report\bin\Debug\CrystalDecisions.ReportSource.xml
+F:\SALE_SUN\Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+F:\SALE_SUN\Report\bin\Debug\BaseBusiness.pdb
+F:\SALE_SUN\Report\bin\Debug\Inventory.pdb
+F:\SALE_SUN\Report\obj\Debug\ResolveAssemblyReference.cache
+F:\SALE_SUN\Report\obj\Debug\Report.AR.uc_ARDetailByCustormer.resources
+F:\SALE_SUN\Report\obj\Debug\Report.AR.uc_ARDetailPayableToSuppliers.resources
+F:\SALE_SUN\Report\obj\Debug\Report.AR.uc_ARPayableTotal.resources
+F:\SALE_SUN\Report\obj\Debug\Report.AR.uc_ARReceivableTotal.resources
+F:\SALE_SUN\Report\obj\Debug\Report.AR.uc_CustormerByContract.resources
+F:\SALE_SUN\Report\obj\Debug\Report.AR.uc_CustormerByOrder.resources
+F:\SALE_SUN\Report\obj\Debug\Report.AR.uc_CustormerTransactions.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Cons.uc_Cons.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Cons.ucBC_PhanTichTieuThuTheoNVBanHang.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Cons.ucBC_SoSanhTieuThuTheoQuay.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Cons.ucSale_ByDate.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Cons.ucSale_CompareByDate.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Cons.uc_Sale_CompareByZone.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Cons.uc_TongHopTieuThuTheoNhomHang.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Cons.uc_BanHangTheoKH.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Cons.uc_BanHangTheoMH.resources
+F:\SALE_SUN\Report\obj\Debug\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.BCDoanhSoTheoKhachHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.BCDoanhSoTheoMatHang.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Form1.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.BCNXTTheoKhoHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.BCNXTTheoLoaiHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.BCNXTTheoThuongHieu.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.BCXuatHangTheoKhachHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmBCNXTTheoMatHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmBCTongHopTonKho.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmBCXuatHangTheoMatHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiTra.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmDanhSachKhachHangGiaoDich.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmDanhSachKHTheoDonDatHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmNhapKhoTheoMatHang.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiThu.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiTra.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmTongHopTheoThuongHieu.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmTongHopThepNguoiBan.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+F:\SALE_SUN\Report\obj\Debug\Report.frmReportMains.resources
+F:\SALE_SUN\Report\obj\Debug\CEFA.frmRepostSalescs.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Inv.ucBC_ChiTietNXTTheoMatHang.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoLoaiMatHang.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoNhaCungCap.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Inv.ucBC_TongHopCacKhoTheoLoaiHang.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Inv.ucBC_TongHopNSXTheoThuongHieu.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTCacKho.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTKhoHang.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTTheoMatHang.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Inv.uc_TongHopTonKho.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoKH.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoLoaiMatHang.resources
+F:\SALE_SUN\Report\obj\Debug\Report.Properties.Resources.resources
+F:\SALE_SUN\Report\obj\Debug\Report.TurnOver.ucBC_DanhSoTheoMatHang.resources
+F:\SALE_SUN\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoHoaDonBanHang.resources
+F:\SALE_SUN\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoKH.resources
+F:\SALE_SUN\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoKH.resources
+F:\SALE_SUN\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoLoaiMH.resources
+F:\SALE_SUN\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoMatHang.resources
+F:\SALE_SUN\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoThuongHieu.resources
+F:\SALE_SUN\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+F:\SALE_SUN\Report\obj\Debug\Report.dll.licenses
+F:\SALE_SUN\Report\obj\Debug\Report.dll
+F:\SALE_SUN\Report\obj\Debug\Report.pdb
+F:\SUN_SALE\Report\bin\Debug\Report.dll
+F:\SUN_SALE\Report\bin\Debug\Report.pdb
+F:\SUN_SALE\Report\bin\Debug\BaseBusiness.dll
+F:\SUN_SALE\Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\SUN_SALE\Report\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+F:\SUN_SALE\Report\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+F:\SUN_SALE\Report\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\SUN_SALE\Report\bin\Debug\CrystalDecisions.Shared.dll
+F:\SUN_SALE\Report\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\SUN_SALE\Report\bin\Debug\Customers.dll
+F:\SUN_SALE\Report\bin\Debug\Froms_Declaration.dll
+F:\SUN_SALE\Report\bin\Debug\Goods.dll
+F:\SUN_SALE\Report\bin\Debug\Utilities.dll
+F:\SUN_SALE\Report\bin\Debug\PagingControl.dll
+F:\SUN_SALE\Report\bin\Debug\Transactions.dll
+F:\SUN_SALE\Report\bin\Debug\Shorty.Windows.Forms.dll
+F:\SUN_SALE\Report\bin\Debug\Inventory.dll
+F:\SUN_SALE\Report\bin\Debug\Utilities.pdb
+F:\SUN_SALE\Report\bin\Debug\Froms_Declaration.pdb
+F:\SUN_SALE\Report\bin\Debug\CrystalDecisions.Windows.Forms.xml
+F:\SUN_SALE\Report\bin\Debug\Customers.pdb
+F:\SUN_SALE\Report\bin\Debug\Goods.pdb
+F:\SUN_SALE\Report\bin\Debug\Transactions.pdb
+F:\SUN_SALE\Report\bin\Debug\CrystalDecisions.Shared.xml
+F:\SUN_SALE\Report\bin\Debug\CrystalDecisions.ReportSource.xml
+F:\SUN_SALE\Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+F:\SUN_SALE\Report\bin\Debug\BaseBusiness.pdb
+F:\SUN_SALE\Report\bin\Debug\Inventory.pdb
+F:\SUN_SALE\Report\obj\Debug\ResolveAssemblyReference.cache
+F:\SUN_SALE\Report\obj\Debug\Report.AR.uc_ARDetailByCustormer.resources
+F:\SUN_SALE\Report\obj\Debug\Report.AR.uc_ARDetailPayableToSuppliers.resources
+F:\SUN_SALE\Report\obj\Debug\Report.AR.uc_ARPayableTotal.resources
+F:\SUN_SALE\Report\obj\Debug\Report.AR.uc_ARReceivableTotal.resources
+F:\SUN_SALE\Report\obj\Debug\Report.AR.uc_CustormerByContract.resources
+F:\SUN_SALE\Report\obj\Debug\Report.AR.uc_CustormerByOrder.resources
+F:\SUN_SALE\Report\obj\Debug\Report.AR.uc_CustormerTransactions.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Cons.uc_Cons.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Cons.ucBC_PhanTichTieuThuTheoNVBanHang.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Cons.ucBC_SoSanhTieuThuTheoQuay.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Cons.ucSale_ByDate.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Cons.ucSale_CompareByDate.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Cons.uc_Sale_CompareByZone.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Cons.uc_TongHopTieuThuTheoNhomHang.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Cons.uc_BanHangTheoKH.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Cons.uc_BanHangTheoMH.resources
+F:\SUN_SALE\Report\obj\Debug\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.BCDoanhSoTheoKhachHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.BCDoanhSoTheoMatHang.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Form1.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.BCNXTTheoKhoHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.BCNXTTheoLoaiHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.BCNXTTheoThuongHieu.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.BCXuatHangTheoKhachHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmBCNXTTheoMatHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmBCTongHopTonKho.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmBCXuatHangTheoMatHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiTra.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmDanhSachKhachHangGiaoDich.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmDanhSachKHTheoDonDatHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmNhapKhoTheoMatHang.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiThu.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiTra.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmTongHopTheoThuongHieu.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmTongHopThepNguoiBan.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+F:\SUN_SALE\Report\obj\Debug\Report.frmReportMains.resources
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmRepostSalescs.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_ChiTietNXTTheoMatHang.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoLoaiMatHang.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoNhaCungCap.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopCacKhoTheoLoaiHang.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopNSXTheoThuongHieu.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTCacKho.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTKhoHang.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTTheoMatHang.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Inv.uc_TongHopTonKho.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoKH.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoLoaiMatHang.resources
+F:\SUN_SALE\Report\obj\Debug\Report.Properties.Resources.resources
+F:\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_DanhSoTheoMatHang.resources
+F:\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoHoaDonBanHang.resources
+F:\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoKH.resources
+F:\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoKH.resources
+F:\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoLoaiMH.resources
+F:\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoMatHang.resources
+F:\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoThuongHieu.resources
+F:\SUN_SALE\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+F:\SUN_SALE\Report\obj\Debug\Report.dll.licenses
+F:\SUN_SALE\Report\obj\Debug\Report.dll
+F:\SUN_SALE\Report\obj\Debug\Report.pdb
+F:\SUN_SALE\Report\obj\Debug\CEFA.frmGenSelect.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Report.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Report.pdb
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\BaseBusiness.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\CrystalDecisions.Shared.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Customers.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Froms_Declaration.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Goods.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Utilities.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\PagingControl.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Transactions.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Shorty.Windows.Forms.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Inventory.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Utilities.pdb
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Froms_Declaration.pdb
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\CrystalDecisions.Windows.Forms.xml
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Customers.pdb
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Goods.pdb
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Transactions.pdb
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\CrystalDecisions.Shared.xml
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\CrystalDecisions.ReportSource.xml
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\BaseBusiness.pdb
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\bin\Debug\Inventory.pdb
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\ResolveAssemblyReference.cache
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.AR.uc_ARDetailByCustormer.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.AR.uc_ARDetailPayableToSuppliers.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.AR.uc_ARPayableTotal.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.AR.uc_ARReceivableTotal.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.AR.uc_CustormerByContract.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.AR.uc_CustormerByOrder.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.AR.uc_CustormerTransactions.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Cons.uc_Cons.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Cons.ucBC_PhanTichTieuThuTheoNVBanHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Cons.ucBC_SoSanhTieuThuTheoQuay.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Cons.ucSale_ByDate.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Cons.ucSale_CompareByDate.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Cons.uc_Sale_CompareByZone.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Cons.uc_TongHopTieuThuTheoNhomHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Cons.uc_BanHangTheoKH.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Cons.uc_BanHangTheoMH.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.BCDoanhSoTheoKhachHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.BCDoanhSoTheoMatHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Form1.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.BCNXTTheoKhoHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.BCNXTTheoLoaiHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.BCNXTTheoThuongHieu.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.BCXuatHangTheoKhachHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmBCNXTTheoMatHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmBCTongHopTonKho.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmBCXuatHangTheoMatHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiTra.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmDanhSachKhachHangGiaoDich.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmDanhSachKHTheoDonDatHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmNhapKhoTheoMatHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiThu.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiTra.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmTongHopTheoThuongHieu.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmTongHopThepNguoiBan.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmGenSelect.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.frmReportMains.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\CEFA.frmRepostSalescs.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_ChiTietNXTTheoMatHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoLoaiMatHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoNhaCungCap.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopCacKhoTheoLoaiHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopNSXTheoThuongHieu.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTCacKho.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTKhoHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTTheoMatHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Inv.uc_TongHopTonKho.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoKH.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoLoaiMatHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.Properties.Resources.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_DanhSoTheoMatHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoHoaDonBanHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoKH.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoKH.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoLoaiMH.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoMatHang.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoThuongHieu.resources
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.dll.licenses
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.dll
+D:\SUN_SALE_19_03_12\SUN_SALE\Report\obj\Debug\Report.pdb
+E:\Sale_New\SUN_SALE\Report\bin\Debug\Report.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\Report.pdb
+E:\Sale_New\SUN_SALE\Report\bin\Debug\BaseBusiness.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\Customers.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\Froms_Declaration.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\Goods.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\Utilities.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\PagingControl.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\Utilities.pdb
+E:\Sale_New\SUN_SALE\Report\bin\Debug\Froms_Declaration.pdb
+E:\Sale_New\SUN_SALE\Report\bin\Debug\Customers.pdb
+E:\Sale_New\SUN_SALE\Report\bin\Debug\Goods.pdb
+E:\Sale_New\SUN_SALE\Report\bin\Debug\BaseBusiness.pdb
+E:\Sale_New\SUN_SALE\Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.AR.uc_ARDetailByCustormer.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.AR.uc_ARDetailPayableToSuppliers.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.AR.uc_ARPayableTotal.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.AR.uc_ARReceivableTotal.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.AR.uc_CustormerByContract.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.AR.uc_CustormerByOrder.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.AR.uc_CustormerTransactions.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Cons.uc_Cons.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Cons.ucBC_PhanTichTieuThuTheoNVBanHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Cons.ucBC_SoSanhTieuThuTheoQuay.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Cons.ucSale_ByDate.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Cons.ucSale_CompareByDate.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Cons.uc_Sale_CompareByZone.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Cons.uc_TongHopTieuThuTheoNhomHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Cons.uc_BanHangTheoKH.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Cons.uc_BanHangTheoMH.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.BCDoanhSoTheoKhachHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.BCDoanhSoTheoMatHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Form1.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.BCNXTTheoKhoHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.BCNXTTheoLoaiHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.BCNXTTheoThuongHieu.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.BCXuatHangTheoKhachHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmBCNXTTheoMatHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmBCTongHopTonKho.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmBCXuatHangTheoMatHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiTra.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmDanhSachKhachHangGiaoDich.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmDanhSachKHTheoDonDatHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmNhapKhoTheoMatHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiThu.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiTra.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmTongHopTheoThuongHieu.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmTongHopThepNguoiBan.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmGenSelect.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.frmReportMains.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\CEFA.frmRepostSalescs.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_ChiTietNXTTheoMatHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoLoaiMatHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoNhaCungCap.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopCacKhoTheoLoaiHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopNSXTheoThuongHieu.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTCacKho.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTKhoHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTTheoMatHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Inv.uc_TongHopTonKho.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoKH.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoLoaiMatHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Properties.Resources.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_DanhSoTheoMatHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoHoaDonBanHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoKH.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoKH.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoLoaiMH.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoMatHang.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoThuongHieu.resources
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.dll.licenses
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.dll
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.pdb
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.Charts.v11.1.Core.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.Data.v11.1.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.Reports.v11.1.Designer.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.RichEdit.v11.1.Core.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.Utils.v11.1.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraCharts.v11.1.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraReports.v11.1.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraRichEdit.v11.1.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraTreeList.v11.1.dll
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.Data.v11.1.xml
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraReports.v11.1.xml
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.Utils.v11.1.xml
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraRichEdit.v11.1.xml
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraTreeList.v11.1.xml
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraEditors.v11.1.xml
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraGrid.v11.1.xml
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.RichEdit.v11.1.Core.xml
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraCharts.v11.1.xml
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraNavBar.v11.1.xml
+E:\Sale_New\SUN_SALE\Report\bin\Debug\DevExpress.XtraLayout.v11.1.xml
+E:\Sale_New\SUN_SALE\Report\obj\Debug\Report.Inv.uc_DanhMucTonKho.resources

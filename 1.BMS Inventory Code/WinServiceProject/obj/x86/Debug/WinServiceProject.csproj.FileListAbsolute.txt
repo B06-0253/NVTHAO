@@ -1,0 +1,67 @@
+D:\Projects\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe.config
+D:\Projects\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe
+D:\Projects\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.pdb
+D:\Projects\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.ProjectInstaller.resources
+D:\Projects\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.exe
+D:\Projects\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.pdb
+D:\Projects\Window Service\WinServiceProject\WinServiceProject\bin\Debug\BaseBusiness.dll
+D:\Projects\Window Service\WinServiceProject\WinServiceProject\bin\Debug\BaseBusiness.pdb
+D:\Projects\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe.config
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.exe
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.ProjectInstaller.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\BaseBusiness.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\BaseBusiness.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\Utilities.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\Utilities.pdb
+E:\Thao\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe.config
+E:\Thao\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.exe
+E:\Thao\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.pdb
+E:\Thao\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe
+E:\Thao\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.pdb
+E:\Thao\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\BaseBusiness.dll
+E:\Thao\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\Utilities.dll
+E:\Thao\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\BaseBusiness.pdb
+E:\Thao\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\Utilities.pdb
+E:\Thao\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.csprojResolveAssemblyReference.cache
+E:\Thao\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.ProjectInstaller.resources
+E:\Thao\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.csproj.GenerateResource.Cache
+D:\TanPhat\QLTK\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe.config
+D:\TanPhat\QLTK\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.exe
+D:\TanPhat\QLTK\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.pdb
+D:\TanPhat\QLTK\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe
+D:\TanPhat\QLTK\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.pdb
+D:\TanPhat\QLTK\Window Service\WinServiceProject\WinServiceProject\bin\Debug\BaseBusiness.dll
+D:\TanPhat\QLTK\Window Service\WinServiceProject\WinServiceProject\bin\Debug\Utilities.dll
+D:\TanPhat\QLTK\Window Service\WinServiceProject\WinServiceProject\bin\Debug\BaseBusiness.pdb
+D:\TanPhat\QLTK\Window Service\WinServiceProject\WinServiceProject\bin\Debug\Utilities.pdb
+D:\TanPhat\QLTK\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.csprojResolveAssemblyReference.cache
+D:\TanPhat\QLTK\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.ProjectInstaller.resources
+D:\TanPhat\QLTK\Window Service\WinServiceProject\WinServiceProject\obj\x86\Debug\WinServiceProject.csproj.GenerateResource.Cache
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\bin\Debug\WinServiceProject.exe.config
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\bin\Debug\WinServiceProject.exe
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\bin\Debug\WinServiceProject.pdb
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\bin\Debug\BaseBusiness.dll
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\bin\Debug\Utilities.dll
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\bin\Debug\TpaInvClass.dll
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\bin\Debug\itextsharp.dll
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\bin\Debug\BaseBusiness.pdb
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\bin\Debug\Utilities.pdb
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\obj\x86\Debug\WinServiceProject.csprojResolveAssemblyReference.cache
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\obj\x86\Debug\WinServiceProject.ProjectInstaller.resources
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\obj\x86\Debug\WinServiceProject.csproj.GenerateResource.Cache
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\obj\x86\Debug\WinServiceProject.exe
+D:\DuAn\Socket\BMS Inventory Code\WinServiceProject\obj\x86\Debug\WinServiceProject.pdb

@@ -1,0 +1,5 @@
+D:\TanPhat\QLTK\BMS Inventory Code\TestPMBusiness\obj\Debug\TestPMBusiness.csprojResolveAssemblyReference.cache
+D:\TanPhat\QLTK\BMS Inventory Code\TestPMBusiness\bin\Debug\TestPMBusiness.dll
+D:\TanPhat\QLTK\BMS Inventory Code\TestPMBusiness\bin\Debug\TestPMBusiness.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\TestPMBusiness\obj\Debug\TestPMBusiness.dll
+D:\TanPhat\QLTK\BMS Inventory Code\TestPMBusiness\obj\Debug\TestPMBusiness.pdb

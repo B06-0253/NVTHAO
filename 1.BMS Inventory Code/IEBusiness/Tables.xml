@@ -1,0 +1,232 @@
+<Tables>
+
+	<Table>
+		<name>T_DM_FCM</name>
+		<column>
+			<name>iD</name>
+			<dataType>int</dataType>
+			<isPK>true</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias></alias>
+			<number>0</number>
+		</column>
+		<column>
+			<name>fK_DTCP</name>
+			<dataType>smallint</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>F K_ D T C P</alias>
+			<number>1</number>
+		</column>
+		<column>
+			<name>c_MONTH</name>
+			<dataType>smallint</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>C_ M O N T H</alias>
+			<number>2</number>
+		</column>
+		<column>
+			<name>c_YEAR</name>
+			<dataType>smallint</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>C_ Y E A R</alias>
+			<number>3</number>
+		</column>
+		<column>
+			<name>c_CODE</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>C_ C O D E</alias>
+			<number>4</number>
+		</column>
+		<column>
+			<name>c_SOHOADON</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>C_ S O H O A D O N</alias>
+			<number>5</number>
+		</column>
+		<column>
+			<name>c_TYPE</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>C_ T Y P E</alias>
+			<number>6</number>
+		</column>
+		<column>
+			<name>totalHD</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Total H D</alias>
+			<number>7</number>
+		</column>
+		<column>
+			<name>totalTPA</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Total T P A</alias>
+			<number>8</number>
+		</column>
+		<column>
+			<name>totalVAT</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Total V A T</alias>
+			<number>9</number>
+		</column>
+		<column>
+			<name>totalReal</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Total Real</alias>
+			<number>10</number>
+		</column>
+		<column>
+			<name>totalBanHang</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Total Ban Hang</alias>
+			<number>11</number>
+		</column>
+		<column>
+			<name>totalNC</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Total N C</alias>
+			<number>12</number>
+		</column>
+		<column>
+			<name>totalPB</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Total P B</alias>
+			<number>13</number>
+		</column>
+		<column>
+			<name>totalBX</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Total B X</alias>
+			<number>14</number>
+		</column>
+		<column>
+			<name>totalProfit</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Total Profit</alias>
+			<number>15</number>
+		</column>
+		<column>
+			<name>totalTrienKhai</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Total Trien Khai</alias>
+			<number>16</number>
+		</column>
+	</Table>
+
+	<Table>
+		<name>T_DM_FCM_DETAIL</name>
+		<column>
+			<name>iD</name>
+			<dataType>int</dataType>
+			<isPK>true</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias></alias>
+			<number>0</number>
+		</column>
+		<column>
+			<name>fK_FCM</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>F K_ F C M</alias>
+			<number>1</number>
+		</column>
+		<column>
+			<name>fK_PHANXUONG</name>
+			<dataType>smallint</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>F K_ P H A N X U O N G</alias>
+			<number>2</number>
+		</column>
+		<column>
+			<name>fK_KMP</name>
+			<dataType>smallint</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>F K_ K M P</alias>
+			<number>3</number>
+		</column>
+		<column>
+			<name>c_PRICE</name>
+			<dataType>decimal</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>C_ P R I C E</alias>
+			<number>4</number>
+		</column>
+	</Table>
+
+</Tables>
+

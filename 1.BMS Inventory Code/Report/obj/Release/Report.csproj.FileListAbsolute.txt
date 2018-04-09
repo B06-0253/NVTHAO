@@ -1,0 +1,285 @@
+D:\Work\CsSolution\Prj_Inventory\20052011\Sales chuẩn\Report\bin\Release\Report.dll
+D:\Work\CsSolution\Prj_Inventory\20052011\Sales chuẩn\Report\bin\Release\Report.pdb
+D:\Work\CsSolution\Prj_Inventory\20052011\Sales chuẩn\Report\obj\Release\ResolveAssemblyReference.cache
+D:\Work\CsSolution\Prj_Inventory\20052011\Sales chuẩn\Report\obj\Release\Report.Form1.resources
+D:\Work\CsSolution\Prj_Inventory\20052011\Sales chuẩn\Report\obj\Release\Report.Form2.resources
+D:\Work\CsSolution\Prj_Inventory\20052011\Sales chuẩn\Report\obj\Release\Report.Properties.Resources.resources
+D:\Work\CsSolution\Prj_Inventory\20052011\Sales chuẩn\Report\obj\Release\Report.csproj.GenerateResource.Cache
+D:\Work\CsSolution\Prj_Inventory\20052011\Sales chuẩn\Report\obj\Release\Report.dll
+D:\Work\CsSolution\Prj_Inventory\20052011\Sales chuẩn\Report\obj\Release\Report.pdb
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\bin\Release\Report.dll
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\bin\Release\Report.pdb
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\ResolveAssemblyReference.cache
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\Report.Form1.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\Report.Form2.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\Report.Properties.Resources.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\Report.csproj.GenerateResource.Cache
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\Report.dll
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\Report.pdb
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\Report.dll.licenses
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmRepostSalescs.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\bin\Release\BaseBusiness.dll
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\bin\Release\Goods.dll
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\bin\Release\Utilities.dll
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\bin\Release\PagingControl.dll
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\bin\Release\BaseBusiness.pdb
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\bin\Release\PagingControl.pdb
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\bin\Release\Utilities.pdb
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\bin\Release\Goods.pdb
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.BCDoanhSoTheoMatHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\bin\Release\Customers.exe
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\bin\Release\Customers.pdb
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.BCDoanhSoTheoKhachHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmTongHopThepNguoiBan.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmTongHopTheoThuongHieu.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmNhapKhoTheoMatHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmBCXuatHangTheoMatHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmBCTongHopTonKho.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmDanhSachKhachHangGiaoDich.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.BCNXTTheoKhoHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmBCNXTTheoMatHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.BCXuatHangTheoKhachHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.BCNXTTheoThuongHieu.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.BCNXTTheoLoaiHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmDanhSachKHTheoDonDatHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmTongHopCongNoPhaiThu.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmTongHopCongNoPhaiTra.resources
+C:\Users\HUNG\Desktop\Sales chuẩn\Report\obj\Release\CEFA.frmChiTietCongNoPhaiTra.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\ResolveAssemblyReference.cache
+D:\Vincom\Sales chuẩn\Report\obj\Release\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.BCDoanhSoTheoKhachHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.BCDoanhSoTheoMatHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\Report.Form1.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.BCNXTTheoKhoHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.BCNXTTheoLoaiHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.BCNXTTheoThuongHieu.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.BCXuatHangTheoKhachHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmBCNXTTheoMatHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmBCTongHopTonKho.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmBCXuatHangTheoMatHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmChiTietCongNoPhaiTra.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmDanhSachKhachHangGiaoDich.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmDanhSachKHTheoDonDatHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmNhapKhoTheoMatHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmTongHopCongNoPhaiThu.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmTongHopCongNoPhaiTra.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmTongHopTheoThuongHieu.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmTongHopThepNguoiBan.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmRepostSalescs.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\Report.Properties.Resources.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\Report.csproj.GenerateResource.Cache
+D:\Vincom\Sales chuẩn\Report\obj\Release\Report.dll.licenses
+D:\Vincom\Sales chuẩn\Report\obj\Release\Report.dll
+D:\Vincom\Sales chuẩn\Report\obj\Release\Report.pdb
+D:\Vincom\Sales chuẩn\Report\bin\Release\Report.dll
+D:\Vincom\Sales chuẩn\Report\bin\Release\Report.pdb
+D:\Vincom\Sales chuẩn\Report\bin\Release\BaseBusiness.dll
+D:\Vincom\Sales chuẩn\Report\bin\Release\Customers.exe
+D:\Vincom\Sales chuẩn\Report\bin\Release\Goods.dll
+D:\Vincom\Sales chuẩn\Report\bin\Release\Utilities.dll
+D:\Vincom\Sales chuẩn\Report\bin\Release\PagingControl.dll
+D:\Vincom\Sales chuẩn\Report\bin\Release\Utilities.pdb
+D:\Vincom\Sales chuẩn\Report\bin\Release\PagingControl.pdb
+D:\Vincom\Sales chuẩn\Report\bin\Release\Customers.pdb
+D:\Vincom\Sales chuẩn\Report\bin\Release\Goods.pdb
+D:\Vincom\Sales chuẩn\Report\bin\Release\BaseBusiness.pdb
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+D:\Vincom\Sales chuẩn\Report\obj\Release\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+D:\Vincom\Sales chuẩn\Report\bin\Release\Transactions.dll
+D:\Vincom\Sales chuẩn\Report\bin\Release\Shorty.Windows.Forms.dll
+D:\Vincom\Sales chuẩn\Report\bin\Release\Transactions.pdb
+E:\Sale_New\Sales_Source\Report\bin\Release\Report.dll
+E:\Sale_New\Sales_Source\Report\bin\Release\Report.pdb
+E:\Sale_New\Sales_Source\Report\bin\Release\BaseBusiness.dll
+E:\Sale_New\Sales_Source\Report\bin\Release\Customers.exe
+E:\Sale_New\Sales_Source\Report\bin\Release\Goods.dll
+E:\Sale_New\Sales_Source\Report\bin\Release\Utilities.dll
+E:\Sale_New\Sales_Source\Report\bin\Release\PagingControl.dll
+E:\Sale_New\Sales_Source\Report\bin\Release\Transactions.dll
+E:\Sale_New\Sales_Source\Report\bin\Release\Utilities.pdb
+E:\Sale_New\Sales_Source\Report\bin\Release\PagingControl.pdb
+E:\Sale_New\Sales_Source\Report\bin\Release\Customers.pdb
+E:\Sale_New\Sales_Source\Report\bin\Release\Goods.pdb
+E:\Sale_New\Sales_Source\Report\bin\Release\BaseBusiness.pdb
+E:\Sale_New\Sales_Source\Report\obj\Release\ResolveAssemblyReference.cache
+E:\Sale_New\Sales_Source\Report\obj\Release\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.BCDoanhSoTheoKhachHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.BCDoanhSoTheoMatHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\Report.Form1.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.BCNXTTheoKhoHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.BCNXTTheoLoaiHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.BCNXTTheoThuongHieu.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.BCXuatHangTheoKhachHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmBCNXTTheoMatHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmBCTongHopTonKho.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmBCXuatHangTheoMatHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmChiTietCongNoPhaiTra.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmDanhSachKhachHangGiaoDich.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmDanhSachKHTheoDonDatHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmNhapKhoTheoMatHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmTongHopCongNoPhaiThu.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmTongHopCongNoPhaiTra.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmTongHopTheoThuongHieu.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmTongHopThepNguoiBan.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\CEFA.frmRepostSalescs.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\Report.Properties.Resources.resources
+E:\Sale_New\Sales_Source\Report\obj\Release\Report.csproj.GenerateResource.Cache
+E:\Sale_New\Sales_Source\Report\obj\Release\Report.dll.licenses
+E:\Sale_New\Sales_Source\Report\obj\Release\Report.dll
+E:\Sale_New\Sales_Source\Report\obj\Release\Report.pdb
+E:\Sale_New\Sales_Source\Report\bin\Release\Shorty.Windows.Forms.dll
+E:\Sale_New\Sales_Source\Report\bin\Release\Transactions.pdb
+D:\Vincom\Sales_Source\Report\bin\Release\Report.dll
+D:\Vincom\Sales_Source\Report\bin\Release\Report.pdb
+D:\Vincom\Sales_Source\Report\bin\Release\BaseBusiness.dll
+D:\Vincom\Sales_Source\Report\bin\Release\Customers.exe
+D:\Vincom\Sales_Source\Report\bin\Release\Goods.dll
+D:\Vincom\Sales_Source\Report\bin\Release\Utilities.dll
+D:\Vincom\Sales_Source\Report\bin\Release\PagingControl.dll
+D:\Vincom\Sales_Source\Report\bin\Release\Transactions.dll
+D:\Vincom\Sales_Source\Report\bin\Release\Shorty.Windows.Forms.dll
+D:\Vincom\Sales_Source\Report\bin\Release\Utilities.pdb
+D:\Vincom\Sales_Source\Report\bin\Release\PagingControl.pdb
+D:\Vincom\Sales_Source\Report\bin\Release\Customers.pdb
+D:\Vincom\Sales_Source\Report\bin\Release\Goods.pdb
+D:\Vincom\Sales_Source\Report\bin\Release\Transactions.pdb
+D:\Vincom\Sales_Source\Report\bin\Release\BaseBusiness.pdb
+D:\Vincom\Sales_Source\Report\obj\Release\ResolveAssemblyReference.cache
+D:\Vincom\Sales_Source\Report\obj\Release\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.BCDoanhSoTheoKhachHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.BCDoanhSoTheoMatHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\Report.Form1.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.BCNXTTheoKhoHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.BCNXTTheoLoaiHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.BCNXTTheoThuongHieu.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.BCXuatHangTheoKhachHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmBCNXTTheoMatHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmBCTongHopTonKho.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmBCXuatHangTheoMatHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmChiTietCongNoPhaiTra.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmDanhSachKhachHangGiaoDich.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmDanhSachKHTheoDonDatHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmNhapKhoTheoMatHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmTongHopCongNoPhaiThu.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmTongHopCongNoPhaiTra.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmTongHopTheoThuongHieu.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmTongHopThepNguoiBan.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+D:\Vincom\Sales_Source\Report\obj\Release\CEFA.frmRepostSalescs.resources
+D:\Vincom\Sales_Source\Report\obj\Release\Report.Properties.Resources.resources
+D:\Vincom\Sales_Source\Report\obj\Release\Report.csproj.GenerateResource.Cache
+D:\Vincom\Sales_Source\Report\obj\Release\Report.dll.licenses
+D:\Vincom\Sales_Source\Report\obj\Release\Report.dll
+D:\Vincom\Sales_Source\Report\obj\Release\Report.pdb
+D:\Vincom\Sales_Source\Report\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Vincom\Sales_Source\Report\bin\Release\CrystalDecisions.Enterprise.Framework.dll
+D:\Vincom\Sales_Source\Report\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Vincom\Sales_Source\Report\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Vincom\Sales_Source\Report\bin\Release\CrystalDecisions.Shared.dll
+D:\Vincom\Sales_Source\Report\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Vincom\Sales_Source\Report\bin\Release\CrystalDecisions.Windows.Forms.xml
+D:\Vincom\Sales_Source\Report\bin\Release\CrystalDecisions.Shared.xml
+D:\Vincom\Sales_Source\Report\bin\Release\CrystalDecisions.ReportSource.xml
+D:\Vincom\Sales_Source\Report\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+F:\APP_2012\BMS\Report\bin\Release\Report.dll
+F:\APP_2012\BMS\Report\bin\Release\Report.pdb
+F:\APP_2012\BMS\Report\bin\Release\BaseBusiness.dll
+F:\APP_2012\BMS\Report\bin\Release\Contract.dll
+F:\APP_2012\BMS\Report\bin\Release\Custormer.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.Charts.v11.1.Core.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.Data.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.PivotGrid.v11.1.Core.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.Printing.v11.1.Core.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.Reports.v11.1.Designer.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.RichEdit.v11.1.Core.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.Utils.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraCharts.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraEditors.v11.1.Design.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraEditors.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraGrid.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraLayout.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraNavBar.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraPivotGrid.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraReports.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraReports.v11.1.Extensions.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraRichEdit.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraTreeList.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Release\Forms.dll
+F:\APP_2012\BMS\Report\bin\Release\Utilities.dll
+F:\APP_2012\BMS\Report\bin\Release\Cashering.dll
+F:\APP_2012\BMS\Report\bin\Release\Product.dll
+F:\APP_2012\BMS\Report\bin\Release\Interop.Microsoft.Office.Interop.Word.dll
+F:\APP_2012\BMS\Report\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+F:\APP_2012\BMS\Report\bin\Release\Contract.pdb
+F:\APP_2012\BMS\Report\bin\Release\Custormer.pdb
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.Data.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.RichEdit.v11.1.Core.xml
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.Utils.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraCharts.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraEditors.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraGrid.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraLayout.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraNavBar.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraPivotGrid.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.PivotGrid.v11.1.Core.xml
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraReports.v11.1.Extensions.xml
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraReports.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraRichEdit.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Release\DevExpress.XtraTreeList.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Release\Cashering.pdb
+F:\APP_2012\BMS\Report\bin\Release\Product.pdb
+F:\APP_2012\BMS\Report\obj\Release\ResolveAssemblyReference.cache
+F:\APP_2012\BMS\Report\obj\Release\BMS.ucBaoCaoChiTietCongNo.resources
+F:\APP_2012\BMS\Report\obj\Release\BMS.ucBaoCaoCongNo.resources
+F:\APP_2012\BMS\Report\obj\Release\BMS.ucBaoCaoDanhSachXe.resources
+F:\APP_2012\BMS\Report\obj\Release\BMS.ucBaoCaoDoanhThu.resources
+F:\APP_2012\BMS\Report\obj\Release\BMS.ucBaoCaoSoSanhDoanhThu.resources
+F:\APP_2012\BMS\Report\obj\Release\BMS.ucBaoCaoTuoiNo.resources
+F:\APP_2012\BMS\Report\obj\Release\BMS.ucBC_RentRoll.resources
+F:\APP_2012\BMS\Report\obj\Release\BMS.ucDanhGiaCoc.resources
+F:\APP_2012\BMS\Report\obj\Release\BMS.ucDanhGiaDoanhThuTraTruoc.resources
+F:\APP_2012\BMS\Report\obj\Release\BMS.ucDanhSachHopDong.resources
+F:\APP_2012\BMS\Report\obj\Release\BMS.uc_BCCongNoChiTiet.resources
+F:\APP_2012\BMS\Report\obj\Release\BMS.uc_BCDSHopDongKhachThue.resources
+F:\APP_2012\BMS\Report\obj\Release\BMS.frmGenSelect.resources
+F:\APP_2012\BMS\Report\obj\Release\BMS.frmReportMains.resources
+F:\APP_2012\BMS\Report\obj\Release\Report.Properties.Resources.resources
+F:\APP_2012\BMS\Report\obj\Release\GenerateResource.read.1.tlog
+F:\APP_2012\BMS\Report\obj\Release\GenerateResource.write.1.tlog
+F:\APP_2012\BMS\Report\obj\Release\Report.dll.licenses
+F:\APP_2012\BMS\Report\obj\Release\Report.dll
+F:\APP_2012\BMS\Report\obj\Release\Report.pdb

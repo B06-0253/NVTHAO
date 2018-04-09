@@ -1,0 +1,1044 @@
+F:\APP_2012\BMS\Report\bin\x86\Debug\Report.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\Report.pdb
+F:\APP_2012\BMS\Report\bin\x86\Debug\BaseBusiness.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\Contract.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\Custormer.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Charts.v11.1.Core.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Data.v11.1.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Reports.v11.1.Designer.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\Forms.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\Utilities.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\Cashering.exe
+F:\APP_2012\BMS\Report\bin\x86\Debug\Product.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+F:\APP_2012\BMS\Report\bin\x86\Debug\BaseBusiness.pdb
+F:\APP_2012\BMS\Report\bin\x86\Debug\Contract.pdb
+F:\APP_2012\BMS\Report\bin\x86\Debug\Custormer.pdb
+F:\APP_2012\BMS\Report\bin\x86\Debug\Forms.pdb
+F:\APP_2012\BMS\Report\bin\x86\Debug\Utilities.pdb
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Data.v11.1.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.xml
+F:\APP_2012\BMS\Report\bin\x86\Debug\Cashering.pdb
+F:\APP_2012\BMS\Report\bin\x86\Debug\Product.pdb
+F:\APP_2012\BMS\Report\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNo.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoCongNo.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoDoanhThu.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoTuoiNo.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBC_RentRoll.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucDanhGiaCoc.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucDanhGiaDoanhThuTraTruoc.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.uc_BCCongNoChiTiet.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.uc_BCDSHopDongKhachThue.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.frmReportMains.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\Report.Properties.Resources.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\APP_2012\BMS\Report\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\APP_2012\BMS\Report\obj\x86\Debug\Report.dll
+F:\APP_2012\BMS\Report\obj\x86\Debug\Report.pdb
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoDanhSachXe.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoSoSanhDoanhThu.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucDanhSachHopDong.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNoTheoKhachHang.resources
+F:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongThanhLyTruocHan.resources
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Report.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Report.pdb
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Contract.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Custormer.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.Charts.v11.1.Core.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.Data.v11.1.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.Reports.v11.1.Designer.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Forms.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Cashering.exe
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Product.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Contract.pdb
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Custormer.pdb
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Forms.pdb
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Utilities.pdb
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.Data.v11.1.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.xml
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Cashering.pdb
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\Product.pdb
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNo.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNoTheoKhachHang.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucBaoCaoCongNo.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucBaoCaoDanhSachXe.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucBaoCaoDoanhThu.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongThanhLyTruocHan.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucBaoCaoSoSanhDoanhThu.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucBaoCaoTuoiNo.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucBC_RentRoll.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucDanhGiaCoc.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucDanhGiaDoanhThuTraTruoc.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucDanhSachHopDong.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.uc_BCCongNoChiTiet.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.uc_BCDSHopDongKhachThue.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.frmReportMains.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\Report.Properties.Resources.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\Report.dll
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\Report.pdb
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\FileManager.dll
+D:\Projects\BMS_CODE_30_10_12\Report\bin\x86\Debug\FileManager.pdb
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\Report.dll.licenses
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.frmReportImportOrderMonitor.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.frmReportInventorySummary.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.Uc_rpt_ExportInv.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.Uc_rpt_ImportInvMaterial.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.Uc_Rpt_InvOrder.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.Uc_rpt_ReuseQuantity.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.Uc_rpt_TransferInv.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucBaoCaoCacKhoanBaoLanhNganHang.resources
+D:\Projects\BMS_CODE_30_10_12\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongSapHetHan.resources
+D:\Project\BMS\Report\bin\x86\Debug\Report.dll
+D:\Project\BMS\Report\bin\x86\Debug\Report.pdb
+D:\Project\BMS\Report\bin\x86\Debug\BaseBusiness.dll
+D:\Project\BMS\Report\bin\x86\Debug\Contract.dll
+D:\Project\BMS\Report\bin\x86\Debug\Custormer.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.Charts.v11.1.Core.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.Data.v11.1.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.Reports.v11.1.Designer.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.dll
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.dll
+D:\Project\BMS\Report\bin\x86\Debug\Forms.dll
+D:\Project\BMS\Report\bin\x86\Debug\Utilities.dll
+D:\Project\BMS\Report\bin\x86\Debug\FileManager.dll
+D:\Project\BMS\Report\bin\x86\Debug\Product.dll
+D:\Project\BMS\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Project\BMS\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Project\BMS\Report\bin\x86\Debug\office.dll
+D:\Project\BMS\Report\bin\x86\Debug\BaseBusiness.pdb
+D:\Project\BMS\Report\bin\x86\Debug\Contract.pdb
+D:\Project\BMS\Report\bin\x86\Debug\Custormer.pdb
+D:\Project\BMS\Report\bin\x86\Debug\Forms.pdb
+D:\Project\BMS\Report\bin\x86\Debug\Utilities.pdb
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.Data.v11.1.xml
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.xml
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.xml
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.xml
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.xml
+D:\Project\BMS\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.xml
+D:\Project\BMS\Report\bin\x86\Debug\Cashering.pdb
+D:\Project\BMS\Report\bin\x86\Debug\FileManager.pdb
+D:\Project\BMS\Report\bin\x86\Debug\Product.pdb
+D:\Project\BMS\Report\bin\x86\Debug\office.xml
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoCacKhoanBaoLanhNganHang.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNo.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNoTheoKhachHang.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoCongNo.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoDanhSachXe.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoDoanhThu.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongSapHetHan.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongThanhLyTruocHan.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoSoSanhDoanhThu.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoTuoiNo.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBC_RentRoll.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucDanhGiaCoc.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucDanhGiaDoanhThuTraTruoc.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucDanhSachHopDong.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.uc_BCCongNoChiTiet.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.uc_BCDSHopDongKhachThue.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.frmReportMains.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.frmReportImportOrderMonitor.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.frmReportInventorySummary.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMinMax.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMin.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_ExportInv.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_ImportInvMaterial.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.Uc_Rpt_InvOrder.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_ReuseQuantity.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_TransferInv.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolation.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolationType.resources
+D:\Project\BMS\Report\obj\x86\Debug\Report.Properties.Resources.resources
+D:\Project\BMS\Report\obj\x86\Debug\Report.dll.licenses
+D:\Project\BMS\Report\obj\x86\Debug\Report.dll
+D:\Project\BMS\Report\obj\x86\Debug\Report.pdb
+D:\Project\BMS\Report\bin\x86\Debug\Hotline.dll
+D:\Project\BMS\Report\bin\x86\Debug\EaseWinControl.dll
+D:\Project\BMS\Report\bin\x86\Debug\Hotline.pdb
+E:\APP_2012\BMS\Report\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoCacKhoanBaoLanhNganHang.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNo.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNoTheoKhachHang.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoCongNo.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoDanhSachXe.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoDoanhThu.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongSapHetHan.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongThanhLyTruocHan.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoSoSanhDoanhThu.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoTuoiNo.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBC_RentRoll.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucDanhGiaCoc.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucDanhGiaDoanhThuTraTruoc.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucDanhSachHopDong.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.uc_BCDSHopDongKhachThue.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.frmReportMains.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.frmReportImportOrderMonitor.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.frmReportInventorySummary.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMinMax.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMin.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_ExportInv.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_ImportInvMaterial.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.Uc_Rpt_InvOrder.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_ReuseQuantity.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_TransferInv.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolation.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolationType.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\Report.Properties.Resources.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\APP_2012\BMS\Report\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\APP_2012\BMS\Report\obj\x86\Debug\Report.dll
+E:\APP_2012\BMS\Report\obj\x86\Debug\Report.pdb
+E:\APP_2012\BMS\Report\bin\x86\Debug\Report.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\Report.pdb
+E:\APP_2012\BMS\Report\bin\x86\Debug\BaseBusiness.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\Contract.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\Custormer.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Charts.v11.1.Core.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Data.v11.1.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Reports.v11.1.Designer.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\Forms.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\Utilities.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\Cashering.exe
+E:\APP_2012\BMS\Report\bin\x86\Debug\Product.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\FileManager.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\Hotline.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\office.dll
+E:\APP_2012\BMS\Report\bin\x86\Debug\BaseBusiness.pdb
+E:\APP_2012\BMS\Report\bin\x86\Debug\Contract.pdb
+E:\APP_2012\BMS\Report\bin\x86\Debug\Forms.pdb
+E:\APP_2012\BMS\Report\bin\x86\Debug\Utilities.pdb
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Data.v11.1.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.xml
+E:\APP_2012\BMS\Report\bin\x86\Debug\Product.pdb
+E:\APP_2012\BMS\Report\bin\x86\Debug\office.xml
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucReportByMonth.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucReportByYear.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucRequestDone.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucRequestProcessing.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\Report.dll.licenses
+D:\Project\BMS\Report\bin\x86\Debug\Cashering.dll
+D:\Project\BMS\Report\obj\x86\Debug\Report.csprojResolveAssemblyReference.cache
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucReportByMonth.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucReportByYear.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucRequestDone.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucRequestProcessing.resources
+D:\Project\BMS\Report\obj\x86\Debug\Report.csproj.GenerateResource.Cache
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBC_ContractWF_Contract.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractDetail.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractSummary.resources
+D:\Project\BMS\Report\obj\x86\Debug\BMS.ucBC_ContractWF_PreContractDetail.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBC_ContractWF_Contract.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractDetail.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractSummary.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBC_ContractWF_PreContractDetail.resources
+E:\APP_2012\BMS\Report\bin\x86\Debug\Custormer.pdb
+E:\APP_2012\BMS\Report\bin\x86\Debug\FileManager.pdb
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoDienTichTang.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBaoCaoTongHopDienTichTheoTang.resources
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Report.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Report.pdb
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Contract.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Custormer.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.Charts.v11.1.Core.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.Data.v11.1.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.Reports.v11.1.Designer.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Forms.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Cashering.exe
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\FileManager.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Product.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Hotline.dll
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Contract.pdb
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Custormer.pdb
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Forms.pdb
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Utilities.pdb
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.Data.v11.1.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.xml
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Cashering.pdb
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\FileManager.pdb
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Product.pdb
+D:\Projects\BMS_CODE_18_01_13\Report\bin\x86\Debug\Hotline.pdb
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoCacKhoanBaoLanhNganHang.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNo.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNoTheoKhachHang.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoCongNo.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoDanhSachXe.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoDoanhThu.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongSapHetHan.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongThanhLyTruocHan.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoSoSanhDoanhThu.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoTuoiNo.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBC_RentRoll.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucDanhGiaCoc.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucDanhGiaDoanhThuTraTruoc.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucDanhSachHopDong.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBC_ContractWF_Contract.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractDetail.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractSummary.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBC_ContractWF_PreContractDetail.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoDienTichTang.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoTongHopDienTichTheoTang.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucReportByMonth.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucReportByYear.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucRequestDone.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.ucRequestProcessing.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.uc_BCCongNoChiTiet.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.uc_BCDSHopDongKhachThue.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.frmReportMains.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.frmReportImportOrderMonitor.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.frmReportInventorySummary.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMinMax.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMin.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_ExportInv.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_ImportInvMaterial.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.Uc_Rpt_InvOrder.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_ReuseQuantity.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_TransferInv.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolation.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolationType.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\Report.Properties.Resources.resources
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\Report.dll.licenses
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\Report.dll
+D:\Projects\BMS_CODE_18_01_13\Report\obj\x86\Debug\Report.pdb
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBC_ElectricityService.resources
+E:\APP_2012\BMS\Report\obj\x86\Debug\BMS.ucBC_WaterService.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Report.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Report.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Contract.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Custormer.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.Charts.v11.1.Core.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.Data.v11.1.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.Reports.v11.1.Designer.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Forms.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Cashering.exe
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Product.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\FileManager.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Hotline.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Contract.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Custormer.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Forms.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Utilities.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.Data.v11.1.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.xml
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Cashering.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Product.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\FileManager.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Report\bin\x86\Debug\Hotline.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBaoCaoCacKhoanBaoLanhNganHang.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNo.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNoTheoKhachHang.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBaoCaoCongNo.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBaoCaoDanhSachXe.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBaoCaoDoanhThu.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongSapHetHan.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongThanhLyTruocHan.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBaoCaoSoSanhDoanhThu.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBaoCaoTuoiNo.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBC_ElectricityService.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBC_RentRoll.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBC_WaterService.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucDanhGiaCoc.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucDanhGiaDoanhThuTraTruoc.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucDanhSachHopDong.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBC_ContractWF_Contract.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractDetail.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractSummary.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBC_ContractWF_PreContractDetail.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBaoCaoDienTichTang.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucBaoCaoTongHopDienTichTheoTang.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucReportByMonth.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucReportByYear.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucRequestDone.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.ucRequestProcessing.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.uc_BCDSHopDongKhachThue.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.frmReportMains.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.frmReportImportOrderMonitor.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.frmReportInventorySummary.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMinMax.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMin.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.Uc_rpt_ExportInv.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.Uc_rpt_ImportInvMaterial.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.Uc_Rpt_InvOrder.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.Uc_rpt_ReuseQuantity.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.Uc_rpt_TransferInv.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolation.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolationType.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\Report.Properties.Resources.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\Report.dll.licenses
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\Report.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Report\obj\x86\Debug\Report.pdb
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Report.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Report.pdb
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\BaseBusiness.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Contract.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Custormer.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.Charts.v11.1.Core.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.Data.v11.1.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.Reports.v11.1.Designer.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Forms.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Utilities.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Cashering.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\FileManager.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Product.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Hotline.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\office.dll
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\BaseBusiness.pdb
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Contract.pdb
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Custormer.pdb
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Forms.pdb
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Utilities.pdb
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.Data.v11.1.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.xml
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Cashering.pdb
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\FileManager.pdb
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Product.pdb
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\Hotline.pdb
+D:\Project\BMS_CODE_26_01_13\Report\bin\x86\Debug\office.xml
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\Report.csprojResolveAssemblyReference.cache
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoCacKhoanBaoLanhNganHang.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNo.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNoTheoKhachHang.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoCongNo.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoDanhSachXe.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoDoanhThu.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongSapHetHan.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongThanhLyTruocHan.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoSoSanhDoanhThu.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoTuoiNo.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBC_ElectricityService.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBC_RentRoll.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBC_WaterService.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucDanhGiaCoc.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucDanhGiaDoanhThuTraTruoc.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucDanhSachHopDong.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBC_ContractWF_Contract.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractDetail.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractSummary.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBC_ContractWF_PreContractDetail.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoDienTichTang.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucBaoCaoTongHopDienTichTheoTang.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucReportByMonth.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucReportByYear.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucRequestDone.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.ucRequestProcessing.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.uc_BCDSHopDongKhachThue.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.frmReportMains.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.frmReportImportOrderMonitor.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.frmReportInventorySummary.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMinMax.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMin.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_ExportInv.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_ImportInvMaterial.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.Uc_Rpt_InvOrder.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_ReuseQuantity.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_TransferInv.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolation.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolationType.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\Report.Properties.Resources.resources
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\Report.csproj.GenerateResource.Cache
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\Report.dll.licenses
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\Report.dll
+D:\Project\BMS_CODE_26_01_13\Report\obj\x86\Debug\Report.pdb
+E:\APP_2012\BMS\Report\bin\x86\Debug\Cashering.pdb
+E:\APP_2012\BMS\Report\bin\x86\Debug\Hotline.pdb
+E:\BMS\BMS Project\Report\bin\x86\Debug\Report.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\Report.pdb
+E:\BMS\BMS Project\Report\bin\x86\Debug\BaseBusiness.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\Contract.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\Custormer.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.Charts.v11.1.Core.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.Data.v11.1.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.Reports.v11.1.Designer.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\Forms.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\Utilities.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\Cashering.exe
+E:\BMS\BMS Project\Report\bin\x86\Debug\FileManager.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\Product.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\Hotline.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\office.dll
+E:\BMS\BMS Project\Report\bin\x86\Debug\BaseBusiness.pdb
+E:\BMS\BMS Project\Report\bin\x86\Debug\Contract.pdb
+E:\BMS\BMS Project\Report\bin\x86\Debug\Custormer.pdb
+E:\BMS\BMS Project\Report\bin\x86\Debug\Forms.pdb
+E:\BMS\BMS Project\Report\bin\x86\Debug\Utilities.pdb
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.Data.v11.1.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.xml
+E:\BMS\BMS Project\Report\bin\x86\Debug\Cashering.pdb
+E:\BMS\BMS Project\Report\bin\x86\Debug\FileManager.pdb
+E:\BMS\BMS Project\Report\bin\x86\Debug\Product.pdb
+E:\BMS\BMS Project\Report\bin\x86\Debug\Hotline.pdb
+E:\BMS\BMS Project\Report\bin\x86\Debug\office.xml
+E:\BMS\BMS Project\Report\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBaoCaoCacKhoanBaoLanhNganHang.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNo.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNoTheoKhachHang.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBaoCaoCongNo.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBaoCaoDanhSachXe.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBaoCaoDoanhThu.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongSapHetHan.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongThanhLyTruocHan.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBaoCaoSoSanhDoanhThu.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBaoCaoTuoiNo.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBC_ElectricityService.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBC_RentRoll.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBC_WaterService.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucDanhGiaCoc.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucDanhGiaDoanhThuTraTruoc.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucDanhSachHopDong.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBC_ContractWF_Contract.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractDetail.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractSummary.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBC_ContractWF_PreContractDetail.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBaoCaoDienTichTang.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBaoCaoTongHopDienTichTheoTang.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucReportByMonth.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucReportByYear.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucRequestDone.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucRequestProcessing.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.uc_BCDSHopDongKhachThue.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.frmReportMains.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.frmReportImportOrderMonitor.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.frmReportInventorySummary.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.Uc_rpt_ExportInv.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.Uc_rpt_ImportInvMaterial.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.Uc_Rpt_InvOrder.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.Uc_rpt_ReuseQuantity.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.Uc_rpt_TransferInv.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolation.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolationType.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\Report.Properties.Resources.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BMS\BMS Project\Report\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\BMS\BMS Project\Report\obj\x86\Debug\Report.dll.licenses
+E:\BMS\BMS Project\Report\obj\x86\Debug\Report.dll
+E:\BMS\BMS Project\Report\obj\x86\Debug\Report.pdb
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMaxMin.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBC_ThreeIndexService.resources
+E:\BMS\BMS Project\Report\obj\x86\Debug\BMS.ucBC_OneIndexService.resources
+E:\BMS\BMS Code\Report\bin\x86\Debug\Report.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\Report.pdb
+E:\BMS\BMS Code\Report\bin\x86\Debug\BaseBusiness.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\Contract.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\Custormer.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.Charts.v11.1.Core.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.Data.v11.1.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.Reports.v11.1.Designer.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\Forms.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\Utilities.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\Cashering.exe
+E:\BMS\BMS Code\Report\bin\x86\Debug\FileManager.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\Product.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\Hotline.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\office.dll
+E:\BMS\BMS Code\Report\bin\x86\Debug\BaseBusiness.pdb
+E:\BMS\BMS Code\Report\bin\x86\Debug\Contract.pdb
+E:\BMS\BMS Code\Report\bin\x86\Debug\Custormer.pdb
+E:\BMS\BMS Code\Report\bin\x86\Debug\Forms.pdb
+E:\BMS\BMS Code\Report\bin\x86\Debug\Utilities.pdb
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.Data.v11.1.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.RichEdit.v11.1.Core.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraCharts.v11.1.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraReports.v11.1.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraRichEdit.v11.1.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.xml
+E:\BMS\BMS Code\Report\bin\x86\Debug\Cashering.pdb
+E:\BMS\BMS Code\Report\bin\x86\Debug\FileManager.pdb
+E:\BMS\BMS Code\Report\bin\x86\Debug\Product.pdb
+E:\BMS\BMS Code\Report\bin\x86\Debug\Hotline.pdb
+E:\BMS\BMS Code\Report\bin\x86\Debug\office.xml
+E:\BMS\BMS Code\Report\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoCacKhoanBaoLanhNganHang.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNo.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNoTheoKhachHang.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoCongNo.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoDanhSachXe.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoDoanhThu.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongSapHetHan.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongThanhLyTruocHan.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoSoSanhDoanhThu.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoTuoiNo.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_ElectricityService.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_OneIndexService.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_RentRoll.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_ThreeIndexService.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_WaterService.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucDanhGiaCoc.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucDanhGiaDoanhThuTraTruoc.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucDanhSachHopDong.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_ContractWF_Contract.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractDetail.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractSummary.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_ContractWF_PreContractDetail.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMaxMin.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoDienTichTang.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoTongHopDienTichTheoTang.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucReportByMonth.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucReportByYear.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucRequestDone.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucRequestProcessing.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.uc_BCDSHopDongKhachThue.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.frmReportMains.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.frmReportImportOrderMonitor.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.frmReportInventorySummary.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_ExportInv.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_ImportInvMaterial.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_Rpt_InvOrder.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_ReuseQuantity.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_TransferInv.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolation.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolationType.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\Report.Properties.Resources.resources
+E:\BMS\BMS Code\Report\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BMS\BMS Code\Report\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\BMS\BMS Code\Report\obj\x86\Debug\Report.dll.licenses
+E:\BMS\BMS Code\Report\obj\x86\Debug\Report.dll
+E:\BMS\BMS Code\Report\obj\x86\Debug\Report.pdb
+D:\BMS\BMS Code\Report\obj\x86\Debug\Report.csprojResolveAssemblyReference.cache
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietDanhSachXe.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoCacKhoanBaoLanhNganHang.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNo.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoChiTietCongNoTheoKhachHang.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoCongNo.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoDanhSachXe.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoDoanhThu.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongSapHetHan.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoHopDongThanhLyTruocHan.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoSoSanhDoanhThu.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoTuoiNo.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_ElectricityService.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_OneIndexService.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_RentRoll.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_ThreeIndexService.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_WaterService.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucDanhGiaCoc.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucDanhGiaDoanhThuTraTruoc.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucDanhSachHopDong.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_ContractWF_Contract.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractDetail.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_ContractWF_ContractSummary.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBC_ContractWF_PreContractDetail.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_ExportMaterialSummary.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_ImportMaterialSummary.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_Export_Transfer_Inv.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_InvMaterialHistory.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMaxMin.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucReportRegistration.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoDienTichTang.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucBaoCaoTongHopDienTichTheoTang.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucReportByMonth.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucReportByYear.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucRequestDone.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.ucRequestProcessing.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.uc_BCDSHopDongKhachThue.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.frmReportMains.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.frmReportImportOrderMonitor.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.frmReportInventorySummary.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_ExportInv.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_ImportInvMaterial.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_Rpt_InvOrder.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_ReuseQuantity.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_TransferInv.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolation.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\BMS.Uc_rpt_TotalViolationType.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\Report.Properties.Resources.resources
+D:\BMS\BMS Code\Report\obj\x86\Debug\Report.csproj.GenerateResource.Cache
+D:\BMS\BMS Code\Report\obj\x86\Debug\Report.dll.licenses
+D:\BMS\BMS Code\Report\bin\x86\Debug\Report.dll
+D:\BMS\BMS Code\Report\bin\x86\Debug\Report.pdb
+D:\BMS\BMS Code\Report\obj\x86\Debug\Report.dll
+D:\BMS\BMS Code\Report\obj\x86\Debug\Report.pdb
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\Report.csprojResolveAssemblyReference.cache
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_ExportMaterialSummary.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_ImportMaterialSummary.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_Export_Transfer_Inv.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_InvMaterialHistory.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMaxMin.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmReportMains.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmReportImportOrderMonitor.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmReportInventorySummary.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_ExportInv.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_ImportInvMaterial.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_Rpt_InvOrder.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_ReuseQuantity.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_TransferInv.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\Report.Properties.Resources.resources
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\Report.csproj.GenerateResource.Cache
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\Report.dll.licenses
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\Report.dll
+D:\BMS\BMS Inventory Code\Report\bin\x86\Debug\Report.dll
+D:\BMS\BMS Inventory Code\Report\bin\x86\Debug\Report.pdb
+D:\BMS\BMS Inventory Code\Report\bin\x86\Debug\Contract.dll
+D:\BMS\BMS Inventory Code\Report\bin\x86\Debug\CustomerService.dll
+D:\BMS\BMS Inventory Code\Report\bin\x86\Debug\Custormer.dll
+D:\BMS\BMS Inventory Code\Report\bin\x86\Debug\aspNetEmail.dll
+D:\BMS\BMS Inventory Code\Report\bin\x86\Debug\Contract.pdb
+D:\BMS\BMS Inventory Code\Report\bin\x86\Debug\CustomerService.pdb
+D:\BMS\BMS Inventory Code\Report\bin\x86\Debug\Custormer.pdb
+D:\BMS\BMS Inventory Code\Report\obj\x86\Debug\Report.pdb
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\bin\x86\Debug\Report.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\bin\x86\Debug\Report.pdb
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\bin\x86\Debug\Contract.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\bin\x86\Debug\CustomerService.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\bin\x86\Debug\Custormer.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\bin\x86\Debug\aspNetEmail.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\bin\x86\Debug\Contract.pdb
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\bin\x86\Debug\CustomerService.pdb
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\bin\x86\Debug\Custormer.pdb
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\Report.csprojResolveAssemblyReference.cache
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_ExportMaterialSummary.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_ImportMaterialSummary.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_Export_Transfer_Inv.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_InvMaterialHistory.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_CompareInvMaxMin.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmReportMains.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmReportImportOrderMonitor.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmReportInventorySummary.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_ExportInv.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_ImportInvMaterial.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_Rpt_InvOrder.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_ReuseQuantity.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.Uc_rpt_TransferInv.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\Report.Properties.Resources.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\Report.csproj.GenerateResource.Cache
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\Report.dll.licenses
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\Report.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\Report.pdb
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.UC_Rpt_InventoryWarning.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmContractType.resources
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\Report.dll
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\Report.pdb
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\Contract.dll
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\CustomerService.dll
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\Custormer.dll
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\Cashering.dll
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\FileManager.dll
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\Product.dll
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\aspNetEmail.dll
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\Hotline.dll
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\Contract.pdb
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\CustomerService.pdb
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\Custormer.pdb
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\Cashering.pdb
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\FileManager.pdb
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\Product.pdb
+D:\Projects\BMS Inventory Code\Report\bin\x86\Debug\Hotline.pdb
+D:\Projects\BMS Inventory Code\Report\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmContractType.resources
+D:\Projects\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmReportMains.resources
+D:\Projects\BMS Inventory Code\Report\obj\x86\Debug\Report.Properties.Resources.resources
+D:\Projects\BMS Inventory Code\Report\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\BMS Inventory Code\Report\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\BMS Inventory Code\Report\obj\x86\Debug\Report.dll.licenses
+D:\Projects\BMS Inventory Code\Report\obj\x86\Debug\Report.dll
+D:\Projects\BMS Inventory Code\Report\obj\x86\Debug\Report.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\Report.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\Report.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\Cashering.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\FileManager.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\Product.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\aspNetEmail.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\Hotline.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\Contract.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\CustomerService.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\Custormer.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\Cashering.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\FileManager.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\Product.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\bin\x86\Debug\Hotline.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmContractType.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmReportMains.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\obj\x86\Debug\Report.Properties.Resources.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\obj\x86\Debug\Report.dll.licenses
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\obj\x86\Debug\Report.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Report\obj\x86\Debug\Report.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Report\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmContractType.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Report\obj\x86\Debug\BMS.frmReportMains.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Report\obj\x86\Debug\Report.Properties.Resources.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Report\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Report\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Report\obj\x86\Debug\Report.dll.licenses

@@ -1,0 +1,596 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{059AE159-539C-41C2-B62B-5C246731BD48}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BaseBusiness</RootNamespace>
+    <AssemblyName>BaseBusiness</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Printing.v11.1.Core, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v11.1, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v11.1, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v11.1, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v11.1, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v11.1, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v11.1, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BO\ActivityLogBO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BO\BaiThucHanhBO.cs" />
+    <Compile Include="BO\BaiThucHanhFileBO.cs" />
+    <Compile Include="BO\BaiThucHanhGroupBO.cs" />
+    <Compile Include="BO\BaiThucHanhModuleBO.cs" />
+    <Compile Include="BO\BaiThucHanhModuleVersionBO.cs" />
+    <Compile Include="BO\BaiThucHanhVersionBO.cs" />
+    <Compile Include="BO\BaoGiaBO.cs" />
+    <Compile Include="BO\BaoGiaDiffBO.cs" />
+    <Compile Include="BO\BaoGiaItemBO.cs" />
+    <Compile Include="BO\BaoLoiBO.cs" />
+    <Compile Include="BO\BaseBO.cs" />
+    <Compile Include="BO\BaseBusinessBO.cs" />
+    <Compile Include="BO\CheckCTTKHistoryBO.cs" />
+    <Compile Include="BO\CoCauGroupBO.cs" />
+    <Compile Include="BO\CoCauMauBO.cs" />
+    <Compile Include="BO\ComputerBO.cs" />
+    <Compile Include="BO\ConfigNoConvertMaterialBO.cs" />
+    <Compile Include="BO\ConfigPBDLBO.cs" />
+    <Compile Include="BO\ConfigSystemBO.cs" />
+    <Compile Include="BO\CostDetailBO.cs" />
+    <Compile Include="BO\CostDetailDepartmentLinkBO.cs" />
+    <Compile Include="BO\CostGroupBO.cs" />
+    <Compile Include="BO\CostLinkBO.cs" />
+    <Compile Include="BO\CostSummaryBO.cs" />
+    <Compile Include="BO\CostSummaryModuleBO.cs" />
+    <Compile Include="BO\CreateFoderBO.cs" />
+    <Compile Include="BO\CustomerBO.cs" />
+    <Compile Include="BO\DepartmentBO.cs" />
+    <Compile Include="BO\DesignSummaryBO.cs" />
+    <Compile Include="BO\DesignSummaryItemBO.cs" />
+    <Compile Include="BO\EventsLogBO.cs" />
+    <Compile Include="BO\EventsLogErrorBO.cs" />
+    <Compile Include="BO\File3DBO.cs" />
+    <Compile Include="BO\FormAndFunctionBO.cs" />
+    <Compile Include="BO\FormAndFunctionGroupBO.cs" />
+    <Compile Include="BO\HangMucCongViecBO.cs" />
+    <Compile Include="BO\ManufacturerBO.cs" />
+    <Compile Include="BO\MaterialBO.cs" />
+    <Compile Include="BO\MaterialConnectBO.cs" />
+    <Compile Include="BO\MaterialFileBO.cs" />
+    <Compile Include="BO\MaterialFileLinkBO.cs" />
+    <Compile Include="BO\MaterialFileNSBO.cs" />
+    <Compile Include="BO\MaterialGroupBO.cs" />
+    <Compile Include="BO\MaterialGroupCustomerLinkBO.cs" />
+    <Compile Include="BO\MaterialHistoryBO.cs" />
+    <Compile Include="BO\MaterialModuleLinkBO.cs" />
+    <Compile Include="BO\MaterialNSBO.cs" />
+    <Compile Include="BO\MaterialParameterLinkBO.cs" />
+    <Compile Include="BO\MaterialParameterValueBO.cs" />
+    <Compile Include="BO\MaterialParamNSBO.cs" />
+    <Compile Include="BO\MaterialParamValueNSBO.cs" />
+    <Compile Include="BO\MisMatchBO.cs" />
+    <Compile Include="BO\MisMatchImageBO.cs" />
+    <Compile Include="BO\MisMatchUserBO.cs" />
+    <Compile Include="BO\ModuleDesignerBO.cs" />
+    <Compile Include="BO\ModuleErrorBO.cs" />
+    <Compile Include="BO\ModuleErrorImageBO.cs" />
+    <Compile Include="BO\ModuleErrorTypeBO.cs" />
+    <Compile Include="BO\ModuleErrorUserBO.cs" />
+    <Compile Include="BO\ModuleFilmBO.cs" />
+    <Compile Include="BO\ModuleFilmHistoryBO.cs" />
+    <Compile Include="BO\ModuleGroupBO.cs" />
+    <Compile Include="BO\ModuleMaterialPriceBO.cs" />
+    <Compile Include="BO\ModulePartBO.cs" />
+    <Compile Include="BO\ModulesBO.cs" />
+    <Compile Include="BO\ModuleTemBO.cs" />
+    <Compile Include="BO\ModuleTemHistoryBO.cs" />
+    <Compile Include="BO\ModuleVersionBO.cs" />
+    <Compile Include="BO\NgayNghiBO.cs" />
+    <Compile Include="BO\PBDLFileBO.cs" />
+    <Compile Include="BO\PBDLStructureBO.cs" />
+    <Compile Include="BO\PBDLStructureFileLinkBO.cs" />
+    <Compile Include="BO\ProductBaiThucHanhLinkBO.cs" />
+    <Compile Include="BO\ProductBaiThucHanhLinkVersionBO.cs" />
+    <Compile Include="BO\ProductFileBO.cs" />
+    <Compile Include="BO\ProductGroupBO.cs" />
+    <Compile Include="BO\ProductModuleLinkBO.cs" />
+    <Compile Include="BO\ProductModuleLinkVersionBO.cs" />
+    <Compile Include="BO\ProductsBO.cs" />
+    <Compile Include="BO\ProductVersionBO.cs" />
+    <Compile Include="BO\ProjectDesignDateBO.cs" />
+    <Compile Include="BO\ProjectInfoBO.cs" />
+    <Compile Include="BO\ProjectsBO.cs" />
+    <Compile Include="BO\ProjectSynBO.cs" />
+    <Compile Include="BO\RequireSolutionBO.cs" />
+    <Compile Include="BO\RequireSolutionFileBO.cs" />
+    <Compile Include="BO\SanPhamDABO.cs" />
+    <Compile Include="BO\ShorcutKeyBO.cs" />
+    <Compile Include="BO\MaterialParametersBO.cs" />
+    <Compile Include="BO\SolutionBO.cs" />
+    <Compile Include="BO\SolutionFileBO.cs" />
+    <Compile Include="BO\SolutionFileTypeBO.cs" />
+    <Compile Include="BO\SolutionItemBO.cs" />
+    <Compile Include="BO\SolutionMeetingBO.cs" />
+    <Compile Include="BO\SolutionTechnologyBO.cs" />
+    <Compile Include="BO\StuffsBO.cs" />
+    <Compile Include="BO\TemplateBO.cs" />
+    <Compile Include="BO\TemplateFormBO.cs" />
+    <Compile Include="BO\TestBO.cs" />
+    <Compile Include="BO\TheoDoiBO.cs" />
+    <Compile Include="BO\TheoDoiHistoryBO.cs" />
+    <Compile Include="BO\UpdateSoftwareBO.cs" />
+    <Compile Include="BO\UserGroupBO.cs" />
+    <Compile Include="BO\UserGroupLinkBO.cs" />
+    <Compile Include="BO\UserGroupRightDistributionBO.cs" />
+    <Compile Include="BO\UserRightDistributionBO.cs" />
+    <Compile Include="BO\UsersBO.cs" />
+    <Compile Include="BO\SessionBO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BO\VatTuThayTheBO.cs" />
+    <Compile Include="BO\vDMVTCBO.cs" />
+    <Compile Include="BO\vMaterialFileBO.cs" />
+    <Compile Include="BO\vUserInfoBO.cs" />
+    <Compile Include="BO\WorkDistributionBO.cs" />
+    <Compile Include="BO\WorksBO.cs" />
+    <Compile Include="BO\WorkStatusBO.cs" />
+    <Compile Include="BO\YeuCauVatTuBO.cs" />
+    <Compile Include="Exceptions\BOException.cs" />
+    <Compile Include="Exceptions\FacadeException.cs" />
+    <Compile Include="Exceptions\ViewException.cs" />
+    <Compile Include="Facade\ActivityLogFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Facade\BaiThucHanhFacade.cs" />
+    <Compile Include="Facade\BaiThucHanhFileFacade.cs" />
+    <Compile Include="Facade\BaiThucHanhGroupFacade.cs" />
+    <Compile Include="Facade\BaiThucHanhModuleFacade.cs" />
+    <Compile Include="Facade\BaiThucHanhModuleVersionFacade.cs" />
+    <Compile Include="Facade\BaiThucHanhVersionFacade.cs" />
+    <Compile Include="Facade\BaoGiaDiffFacade.cs" />
+    <Compile Include="Facade\BaoGiaFacade.cs" />
+    <Compile Include="Facade\BaoGiaItemFacade.cs" />
+    <Compile Include="Facade\BaoLoiFacade.cs" />
+    <Compile Include="Facade\BaseFacade.cs" />
+    <Compile Include="Facade\CheckCTTKHistoryFacade.cs" />
+    <Compile Include="Facade\CoCauGroupFacade.cs" />
+    <Compile Include="Facade\CoCauMauFacade.cs" />
+    <Compile Include="Facade\ComputerFacade.cs" />
+    <Compile Include="Facade\ConfigNoConvertMaterialFacade.cs" />
+    <Compile Include="Facade\ConfigPBDLFacade.cs" />
+    <Compile Include="Facade\ConfigSystemFacade.cs" />
+    <Compile Include="Facade\CostDetailDepartmentLinkFacade.cs" />
+    <Compile Include="Facade\CostDetailFacade.cs" />
+    <Compile Include="Facade\CostGroupFacade.cs" />
+    <Compile Include="Facade\CostLinkFacade.cs" />
+    <Compile Include="Facade\CostSummaryFacade.cs" />
+    <Compile Include="Facade\CostSummaryModuleFacade.cs" />
+    <Compile Include="Facade\CreateFoderFacade.cs" />
+    <Compile Include="Facade\CustomerFacade.cs" />
+    <Compile Include="Facade\DepartmentFacade.cs" />
+    <Compile Include="Facade\DesignSummaryFacade.cs" />
+    <Compile Include="Facade\DesignSummaryItemFacade.cs" />
+    <Compile Include="Facade\EventsLogErrorFacade.cs" />
+    <Compile Include="Facade\EventsLogFacade.cs" />
+    <Compile Include="Facade\File3DFacade.cs" />
+    <Compile Include="Facade\FormAndFunctionFacade.cs" />
+    <Compile Include="Facade\FormAndFunctionGroupFacade.cs" />
+    <Compile Include="Facade\HangMucCongViecFacade.cs" />
+    <Compile Include="Facade\ManufacturerFacade.cs" />
+    <Compile Include="Facade\MaterialConnectFacade.cs" />
+    <Compile Include="Facade\MaterialFacade.cs" />
+    <Compile Include="Facade\MaterialFileFacade.cs" />
+    <Compile Include="Facade\MaterialFileLinkFacade.cs" />
+    <Compile Include="Facade\MaterialFileNSFacade.cs" />
+    <Compile Include="Facade\MaterialGroupCustomerLinkFacade.cs" />
+    <Compile Include="Facade\MaterialGroupFacade.cs" />
+    <Compile Include="Facade\MaterialHistoryFacade.cs" />
+    <Compile Include="Facade\MaterialModuleLinkFacade.cs" />
+    <Compile Include="Facade\MaterialNSFacade.cs" />
+    <Compile Include="Facade\MaterialParameterLinkFacade.cs" />
+    <Compile Include="Facade\MaterialParameterValueFacade.cs" />
+    <Compile Include="Facade\MaterialParamNSFacade.cs" />
+    <Compile Include="Facade\MaterialParamValueNSFacade.cs" />
+    <Compile Include="Facade\MisMatchFacade.cs" />
+    <Compile Include="Facade\MisMatchImageFacade.cs" />
+    <Compile Include="Facade\MisMatchUserFacade.cs" />
+    <Compile Include="Facade\ModuleDesignerFacade.cs" />
+    <Compile Include="Facade\ModuleErrorFacade.cs" />
+    <Compile Include="Facade\ModuleErrorImageFacade.cs" />
+    <Compile Include="Facade\ModuleErrorTypeFacade.cs" />
+    <Compile Include="Facade\ModuleErrorUserFacade.cs" />
+    <Compile Include="Facade\ModuleFilmFacade.cs" />
+    <Compile Include="Facade\ModuleFilmHistoryFacade.cs" />
+    <Compile Include="Facade\ModuleGroupFacade.cs" />
+    <Compile Include="Facade\ModuleMaterialPriceFacade.cs" />
+    <Compile Include="Facade\ModulePartFacade.cs" />
+    <Compile Include="Facade\ModulesFacade.cs" />
+    <Compile Include="Facade\ModuleTemFacade.cs" />
+    <Compile Include="Facade\ModuleTemHistoryFacade.cs" />
+    <Compile Include="Facade\ModuleVersionFacade.cs" />
+    <Compile Include="Facade\NgayNghiFacade.cs" />
+    <Compile Include="Facade\PBDLFileFacade.cs" />
+    <Compile Include="Facade\PBDLStructureFacade.cs" />
+    <Compile Include="Facade\PBDLStructureFileLinkFacade.cs" />
+    <Compile Include="Facade\ProductBaiThucHanhLinkFacade.cs" />
+    <Compile Include="Facade\ProductBaiThucHanhLinkVersionFacade.cs" />
+    <Compile Include="Facade\ProductFileFacade.cs" />
+    <Compile Include="Facade\ProductGroupFacade.cs" />
+    <Compile Include="Facade\ProductModuleLinkFacade.cs" />
+    <Compile Include="Facade\ProductModuleLinkVersionFacade.cs" />
+    <Compile Include="Facade\ProductsFacade.cs" />
+    <Compile Include="Facade\ProductVersionFacade.cs" />
+    <Compile Include="Facade\ProjectDesignDateFacade.cs" />
+    <Compile Include="Facade\ProjectInfoFacade.cs" />
+    <Compile Include="Facade\ProjectsFacade.cs" />
+    <Compile Include="Facade\ProjectSynFacade.cs" />
+    <Compile Include="Facade\RequireSolutionFacade.cs" />
+    <Compile Include="Facade\RequireSolutionFileFacade.cs" />
+    <Compile Include="Facade\SanPhamDAFacade.cs" />
+    <Compile Include="Facade\ShiftFacade.cs" />
+    <Compile Include="Facade\ShorcutKeyFacade.cs" />
+    <Compile Include="Facade\MaterialParametersFacade.cs" />
+    <Compile Include="Facade\SolutionFacade.cs" />
+    <Compile Include="Facade\SolutionFileFacade.cs" />
+    <Compile Include="Facade\SolutionFileTypeFacade.cs" />
+    <Compile Include="Facade\SolutionItemFacade.cs" />
+    <Compile Include="Facade\SolutionMeetingFacade.cs" />
+    <Compile Include="Facade\SolutionTechnologyFacade.cs" />
+    <Compile Include="Facade\StuffsFacade.cs" />
+    <Compile Include="Facade\TemplateFacade.cs" />
+    <Compile Include="Facade\TemplateFormFacade.cs" />
+    <Compile Include="Facade\TestFacade.cs" />
+    <Compile Include="Facade\TheoDoiFacade.cs" />
+    <Compile Include="Facade\TheoDoiHistoryFacade.cs" />
+    <Compile Include="Facade\UpdateSoftwareFacade.cs" />
+    <Compile Include="Facade\UserGroupFacade.cs" />
+    <Compile Include="Facade\UserGroupLinkFacade.cs" />
+    <Compile Include="Facade\UserGroupRightDistributionFacade.cs" />
+    <Compile Include="Facade\UserRightDistributionFacade.cs" />
+    <Compile Include="Facade\UsersFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Facade\SessionFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Facade\VatTuThayTheFacade.cs" />
+    <Compile Include="Facade\vDMVTCFacade.cs" />
+    <Compile Include="Facade\vMaterialFileFacade.cs" />
+    <Compile Include="Facade\vUserInfoFacade.cs" />
+    <Compile Include="Facade\WorkDistributionFacade.cs" />
+    <Compile Include="Facade\WorksFacade.cs" />
+    <Compile Include="Facade\WorkStatusFacade.cs" />
+    <Compile Include="Facade\YeuCauVatTuFacade.cs" />
+    <Compile Include="Model\ActivityLogModel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\BaiThucHanhFileModel.cs" />
+    <Compile Include="Model\BaiThucHanhGroupModel.cs" />
+    <Compile Include="Model\BaiThucHanhModel.cs" />
+    <Compile Include="Model\BaiThucHanhModuleModel.cs" />
+    <Compile Include="Model\BaiThucHanhModuleVersionModel.cs" />
+    <Compile Include="Model\BaiThucHanhVersionModel.cs" />
+    <Compile Include="Model\BaoGiaDiffModel.cs" />
+    <Compile Include="Model\BaoGiaItemModel.cs" />
+    <Compile Include="Model\BaoGiaModel.cs" />
+    <Compile Include="Model\BaoLoiModel.cs" />
+    <Compile Include="Model\BaseModel.cs" />
+    <Compile Include="Model\CheckCTTKHistoryModel.cs" />
+    <Compile Include="Model\CoCauGroupModel.cs" />
+    <Compile Include="Model\CoCauMauModel.cs" />
+    <Compile Include="Model\ComputerModel.cs" />
+    <Compile Include="Model\ConfigNoConvertMaterialModel.cs" />
+    <Compile Include="Model\ConfigPBDLModel.cs" />
+    <Compile Include="Model\ConfigSystemModel.cs" />
+    <Compile Include="Model\CostDetailDepartmentLinkModel.cs" />
+    <Compile Include="Model\CostDetailModel.cs" />
+    <Compile Include="Model\CostGroupModel.cs" />
+    <Compile Include="Model\CostLinkModel.cs" />
+    <Compile Include="Model\CostSummaryModel.cs" />
+    <Compile Include="Model\CostSummaryModuleModel.cs" />
+    <Compile Include="Model\DesignStructureModel.cs" />
+    <Compile Include="Model\CurrencyModel.cs" />
+    <Compile Include="Model\CustomerModel.cs" />
+    <Compile Include="Model\DepartmentModel.cs" />
+    <Compile Include="Model\DesignSummaryItemModel.cs" />
+    <Compile Include="Model\DesignSummaryModel.cs" />
+    <Compile Include="Model\EventsLogErrorModel.cs" />
+    <Compile Include="Model\EventsLogModel.cs" />
+    <Compile Include="Model\File3DModel.cs" />
+    <Compile Include="Model\FormAndFunctionGroupModel.cs" />
+    <Compile Include="Model\FormAndFunctionModel.cs" />
+    <Compile Include="Model\HangMucCongViecModel.cs" />
+    <Compile Include="Model\ManufacturerModel.cs" />
+    <Compile Include="Model\MaterialConnectModel.cs" />
+    <Compile Include="Model\MaterialFileLinkModel.cs" />
+    <Compile Include="Model\MaterialFileModel.cs" />
+    <Compile Include="Model\MaterialFileNSModel.cs" />
+    <Compile Include="Model\MaterialGroupCustomerLinkModel.cs" />
+    <Compile Include="Model\MaterialGroupModel.cs" />
+    <Compile Include="Model\MaterialHistoryModel.cs" />
+    <Compile Include="Model\MaterialModel.cs" />
+    <Compile Include="Model\MaterialModuleLinkModel.cs" />
+    <Compile Include="Model\MaterialNSModel.cs" />
+    <Compile Include="Model\MaterialParameterLinkModel.cs" />
+    <Compile Include="Model\MaterialParameterValueModel.cs" />
+    <Compile Include="Model\MaterialParamNSModel.cs" />
+    <Compile Include="Model\MaterialParamValueNSModel.cs" />
+    <Compile Include="Model\MisMatchImageModel.cs" />
+    <Compile Include="Model\MisMatchModel.cs" />
+    <Compile Include="Model\MisMatchUserModel.cs" />
+    <Compile Include="Model\ModuleDesignerModel.cs" />
+    <Compile Include="Model\ModuleErrorImageModel.cs" />
+    <Compile Include="Model\ModuleErrorModel.cs" />
+    <Compile Include="Model\ModuleErrorTypeModel.cs" />
+    <Compile Include="Model\ModuleErrorUserModel.cs" />
+    <Compile Include="Model\ModuleFilmHistoryModel.cs" />
+    <Compile Include="Model\ModuleFilmModel.cs" />
+    <Compile Include="Model\ModuleGroupModel.cs" />
+    <Compile Include="Model\ModuleMaterialPriceModel.cs" />
+    <Compile Include="Model\ModulePartModel.cs" />
+    <Compile Include="Model\ModulesModel.cs" />
+    <Compile Include="Model\ModuleTemHistoryModel.cs" />
+    <Compile Include="Model\ModuleTemModel.cs" />
+    <Compile Include="Model\ModuleVersionModel.cs" />
+    <Compile Include="Model\NgayNghiModel.cs" />
+    <Compile Include="Model\PBDLFileModel.cs" />
+    <Compile Include="Model\PBDLStructureFileLinkModel.cs" />
+    <Compile Include="Model\PBDLStructureModel.cs" />
+    <Compile Include="Model\ProductBaiThucHanhLinkModel.cs" />
+    <Compile Include="Model\ProductBaiThucHanhLinkVersionModel.cs" />
+    <Compile Include="Model\ProductFileModel.cs" />
+    <Compile Include="Model\ProductGroupModel.cs" />
+    <Compile Include="Model\ProductModuleLinkModel.cs" />
+    <Compile Include="Model\ProductModuleLinkVersionModel.cs" />
+    <Compile Include="Model\ProductsModel.cs" />
+    <Compile Include="Model\ProductVersionModel.cs" />
+    <Compile Include="Model\ProjectDesignDateModel.cs" />
+    <Compile Include="Model\ProjectInfoModel.cs" />
+    <Compile Include="Model\ProjectsModel.cs" />
+    <Compile Include="Model\ProjectSynModel.cs" />
+    <Compile Include="Model\RequireSolutionFileModel.cs" />
+    <Compile Include="Model\RequireSolutionModel.cs" />
+    <Compile Include="Model\SanPhamDAModel.cs" />
+    <Compile Include="Model\ShiftModel.cs" />
+    <Compile Include="Model\ShorcutKeyModel.cs" />
+    <Compile Include="Model\MaterialParametersModel.cs" />
+    <Compile Include="Model\DesignStructureFileModel.cs" />
+    <Compile Include="Model\SolutionFileModel.cs" />
+    <Compile Include="Model\SolutionFileTypeModel.cs" />
+    <Compile Include="Model\SolutionItemModel.cs" />
+    <Compile Include="Model\SolutionMeetingModel.cs" />
+    <Compile Include="Model\SolutionModel.cs" />
+    <Compile Include="Model\SolutionTechnologyModel.cs" />
+    <Compile Include="Model\StuffsModel.cs" />
+    <Compile Include="Model\TemplateModel.cs" />
+    <Compile Include="Model\TestModel.cs" />
+    <Compile Include="Model\TheoDoiHistoryModel.cs" />
+    <Compile Include="Model\TheoDoiModel.cs" />
+    <Compile Include="Model\UpdateSoftwareModel.cs" />
+    <Compile Include="Model\UserGroupLinkModel.cs" />
+    <Compile Include="Model\UserGroupModel.cs" />
+    <Compile Include="Model\UserGroupRightDistributionModel.cs" />
+    <Compile Include="Model\UserRightDistributionModel.cs" />
+    <Compile Include="Model\UsersModel.cs" />
+    <Compile Include="Model\SessionModel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\VatTuThayTheModel.cs" />
+    <Compile Include="Model\vDMVTCModel.cs" />
+    <Compile Include="Model\vMaterialFileModel.cs" />
+    <Compile Include="Model\vUserInfoModel.cs" />
+    <Compile Include="Model\WorkDistributionModel.cs" />
+    <Compile Include="Model\WorksModel.cs" />
+    <Compile Include="Model\WorkStatusModel.cs" />
+    <Compile Include="Model\YeuCauVatTuModel.cs" />
+    <Compile Include="Permissions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\DefValues.cs" />
+    <Compile Include="Utils\FTPFactory.cs" />
+    <Compile Include="_Base\FormBase\_UserControls.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Base\FormBase\_UserControls.Designer.cs">
+      <DependentUpon>_UserControls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Base\VCDateTime.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Base\FormBase\_Forms.resx">
+      <DependentUpon>_Forms.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Base\FormBase\_UserControls.resx">
+      <DependentUpon>_UserControls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Base\Popup\frmPopupBase.resx">
+      <DependentUpon>frmPopupBase.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Base\Popup\frmPopupSearch.resx">
+      <DependentUpon>frmPopupSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Base\Popup\PopupBox.resx">
+      <DependentUpon>PopupBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_Base\Popup\PopupBoxPublic.resx">
+      <DependentUpon>PopupBoxPublic.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ShortcutKey.cs" />
+    <Compile Include="Utils\BetweenExpression.cs" />
+    <Compile Include="Utils\CommunicationManager.cs" />
+    <Compile Include="Utils\DataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Utils\DBUtils.cs" />
+    <Compile Include="Utils\Expression.cs" />
+    <Compile Include="Utils\FTPFactory1.cs" />
+    <Compile Include="Utils\Global.cs" />
+    <Compile Include="_Base\InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\MD5.cs" />
+    <Compile Include="Utils\ProcessTransaction.cs" />
+    <Compile Include="Utils\PropertyUtils.cs" />
+    <Compile Include="Utils\SecUtils.cs" />
+    <Compile Include="Utils\SQLHelper.cs" />
+    <Compile Include="_Base\FormBase\_Forms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_Base\FormBase\_Forms.Designer.cs">
+      <DependentUpon>_Forms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Base\NumericTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_Base\Popup\frmPopupBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_Base\Popup\frmPopupBase.designer.cs">
+      <DependentUpon>frmPopupBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Base\Popup\frmPopupSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_Base\Popup\frmPopupSearch.designer.cs">
+      <DependentUpon>frmPopupSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Base\Popup\IPopup.cs" />
+    <Compile Include="_Base\Popup\PopupBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Base\Popup\PopupBox.designer.cs">
+      <DependentUpon>PopupBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Base\Popup\PopupBoxPublic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_Base\Popup\PopupBoxPublic.designer.cs">
+      <DependentUpon>PopupBoxPublic.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

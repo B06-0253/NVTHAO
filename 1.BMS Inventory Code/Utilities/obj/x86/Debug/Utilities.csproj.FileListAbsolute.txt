@@ -1,0 +1,474 @@
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\Utilities.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\Utilities.pdb
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\BaseBusiness.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+F:\APP_2012\BMS\Utilities\bin\x86\Debug\BaseBusiness.pdb
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\Utilities.dll
+F:\APP_2012\BMS\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\BMS_CODE_30_10_12\Utilities\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_30_10_12\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\BMS\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\BMS\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\BMS\Utilities\bin\x86\Debug\BaseBusiness.dll
+D:\Project\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Project\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Project\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Project\BMS\Utilities\bin\x86\Debug\office.dll
+D:\Project\BMS\Utilities\bin\x86\Debug\BaseBusiness.pdb
+D:\Project\BMS\Utilities\bin\x86\Debug\office.xml
+D:\Project\BMS\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Project\BMS\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Project\BMS\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Project\BMS\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\BMS\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Project\BMS\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Project\BMS\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\BMS\Utilities\obj\x86\Debug\Utilities.pdb
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\Utilities.dll
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\Utilities.pdb
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\BaseBusiness.dll
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\office.dll
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\BaseBusiness.pdb
+E:\APP_2012\BMS\Utilities\bin\x86\Debug\office.xml
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\Utilities.dll
+E:\APP_2012\BMS\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\BMS\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\Project\BMS\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\BMS_CODE_18_01_13\Utilities\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_18_01_13\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\BaseBusiness.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\bin\x86\Debug\BaseBusiness.pdb
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\Utilities.dll
+D:\Projects\BMS_CODE_24_01_13_17h\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\Utilities.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\BaseBusiness.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\office.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\BaseBusiness.pdb
+D:\Project\BMS_CODE_26_01_13\Utilities\bin\x86\Debug\office.xml
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\Utilities.dll
+D:\Project\BMS_CODE_26_01_13\Utilities\obj\x86\Debug\Utilities.pdb
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\Utilities.dll
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\Utilities.pdb
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\BaseBusiness.dll
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\office.dll
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\BaseBusiness.pdb
+E:\BMS\BMS Project\Utilities\bin\x86\Debug\office.xml
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\Utilities.dll
+E:\BMS\BMS Project\Utilities\obj\x86\Debug\Utilities.pdb
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\Utilities.dll
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\Utilities.pdb
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\BaseBusiness.dll
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\office.dll
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\BaseBusiness.pdb
+E:\BMS\BMS Code\Utilities\bin\x86\Debug\office.xml
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.dll
+E:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\office.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+D:\BMS\BMS Code\Utilities\bin\x86\Debug\office.xml
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\BMS\BMS Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\office.dll
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+D:\BMS\BMS Inventory Code\Utilities\bin\x86\Debug\office.xml
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\BMS\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+E:\PROJECTS\CS\VINCOM SAI DONG\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Projects\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\Projects\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Projects\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\BMS Inventory Code\Utilities\bin\x86\Debug\office.dll
+D:\Projects\BMS Inventory Code\Utilities\bin\x86\Debug\office.xml
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\Projects\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\bin\x86\Debug\office.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\bin\x86\Debug\office.xml
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.UcGenParam.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCashierLogin.resources
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\Projects\QUẢN LÝ NHÂN SỰ\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Word.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\office.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Outlook.xml
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Word.xml
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\office.xml
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.dll
+D:\TanPhat\QLTK\BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.pdb
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.dll
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\bin\x86\Debug\TestPMBusiness.dll
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.pdb
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\bin\x86\Debug\TestPMBusiness.pdb
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\PROJECT\TPA\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Data.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\stdole.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.pdb
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Data.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Word.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Data.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\Microsoft.Office.Interop.Word.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\stdole.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.pdb
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Data.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\DevExpress.XtraTreeList.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.pdb
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.pdb
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb
+D:\1.BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.dll
+D:\1.BMS Inventory Code\Utilities\bin\x86\Debug\Utilities.pdb
+D:\1.BMS Inventory Code\Utilities\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\1.BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.dll
+D:\1.BMS Inventory Code\Utilities\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\1.BMS Inventory Code\Utilities\bin\x86\Debug\itextsharp.dll
+D:\1.BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.dll
+D:\1.BMS Inventory Code\Utilities\bin\x86\Debug\TpaInvClass.dll
+D:\1.BMS Inventory Code\Utilities\bin\x86\Debug\IEBusiness.pdb
+D:\1.BMS Inventory Code\Utilities\bin\x86\Debug\TPABusiness.pdb
+D:\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\1.BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmCshLoading.resources
+D:\1.BMS Inventory Code\Utilities\obj\x86\Debug\BMS.frmGenSelect.resources
+D:\1.BMS Inventory Code\Utilities\obj\x86\Debug\BMS.ShowProcessBar.resources
+D:\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.Properties.Resources.resources
+D:\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.csproj.GenerateResource.Cache
+D:\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.dll
+D:\1.BMS Inventory Code\Utilities\obj\x86\Debug\Utilities.pdb

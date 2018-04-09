@@ -1,0 +1,117 @@
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\bin\x86\Debug\TPABusiness.dll
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\bin\x86\Debug\TPABusiness.pdb
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\TPABusiness.dll
+D:\Projects\Quản lý sản xuất\TestProject\BaseBusiness\obj\x86\Debug\TPABusiness.pdb
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\bin\x86\Debug\TPABusiness.dll
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\obj\x86\Debug\TPABusiness.dll
+D:\Projects\Quản lý sản xuất\TestProject\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csprojResolveAssemblyReference.cache
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+E:\PROJECTS\TP\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+E:\PROJECTS\TanPhat\Soft\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csprojResolveAssemblyReference.cache
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csprojResolveAssemblyReference.cache
+D:\PROJECT\TPA\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+D:\PROJECT\TPA\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+D:\PROJECT\TPA\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csprojResolveAssemblyReference.cache
+D:\PROJECT\TPA\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+D:\PROJECT\TPA\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
+D:\PROJECT\TPA\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+D:\PROJECT\TPA\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.Data.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraBars.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.Data.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraBars.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csprojResolveAssemblyReference.cache
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.Data.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraBars.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.Data.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraBars.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csprojResolveAssemblyReference.cache
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+E:\9.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csprojResolveAssemblyReference.cache
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csprojResolveAssemblyReference.cache
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+D:\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+D:\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+D:\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csprojResolveAssemblyReference.cache
+D:\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+D:\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
+D:\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+D:\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb

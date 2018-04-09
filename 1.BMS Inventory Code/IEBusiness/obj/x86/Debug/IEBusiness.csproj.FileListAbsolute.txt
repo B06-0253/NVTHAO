@@ -1,0 +1,64 @@
+D:\Thao\BMS Inventory Code\TPABusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\Thao\BMS Inventory Code\TPABusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\Thao\BMS Inventory Code\TPABusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\Thao\BMS Inventory Code\TPABusiness\bin\x86\Debug\IEBusiness.dll
+D:\Thao\BMS Inventory Code\TPABusiness\bin\x86\Debug\IEBusiness.pdb
+D:\Thao\BMS Inventory Code\TPABusiness\obj\x86\Debug\IEBusiness.dll
+D:\Thao\BMS Inventory Code\TPABusiness\obj\x86\Debug\IEBusiness.pdb
+D:\Thao\BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\Thao\BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\Thao\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\Thao\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\Thao\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\Thao\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\Thao\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\TanPhat\QLTK\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Data.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Utils.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraBars.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Data.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.Utils.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraBars.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraEditors.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraGrid.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraNavBar.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\bin\x86\Debug\DevExpress.XtraLayout.v11.1.xml
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+E:\9.Bảo trì\Quản lý thiết kế\BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\100.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\Phần mềm\7.Bảo trì\Quản lý thiết kế\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb

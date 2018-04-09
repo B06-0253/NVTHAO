@@ -1,0 +1,691 @@
+D:\work\Sale\New folder\Report\obj\Debug\ResolveAssemblyReference.cache
+D:\work\Sale\New folder\Report\obj\Debug\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCDoanhSoTheoKhachHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCDoanhSoTheoMatHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\Report.Form1.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCNXTTheoKhoHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCNXTTheoLoaiHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCNXTTheoThuongHieu.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.BCXuatHangTheoKhachHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBCNXTTheoMatHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBCTongHopTonKho.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmBCXuatHangTheoMatHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiTra.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmDanhSachKhachHangGiaoDich.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmDanhSachKHTheoDonDatHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmNhapKhoTheoMatHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiThu.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiTra.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmTongHopTheoThuongHieu.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmTongHopThepNguoiBan.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+D:\work\Sale\New folder\Report\obj\Debug\CEFA.frmRepostSalescs.resources
+D:\work\Sale\New folder\Report\obj\Debug\Report.Properties.Resources.resources
+D:\work\Sale\New folder\Report\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\Sale\New folder\Report\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\work\Sale\New folder\Report\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\Sale\New folder\Report\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\work\Sale\New folder\Report\obj\Debug\Report.dll.licenses
+D:\work\Sale\New folder\Report\obj\Debug\Report.dll
+D:\work\Sale\New folder\Report\obj\Debug\Report.pdb
+E:\Sale_15_05\Report\bin\Debug\Report.dll
+E:\Sale_15_05\Report\bin\Debug\Report.pdb
+E:\Sale_15_05\Report\bin\Debug\BaseBusiness.dll
+E:\Sale_15_05\Report\bin\Debug\Customers.dll
+E:\Sale_15_05\Report\bin\Debug\Froms_Declaration.dll
+E:\Sale_15_05\Report\bin\Debug\Goods.dll
+E:\Sale_15_05\Report\bin\Debug\Utilities.dll
+E:\Sale_15_05\Report\bin\Debug\PagingControl.dll
+E:\Sale_15_05\Report\bin\Debug\BaseBusiness.pdb
+E:\Sale_15_05\Report\bin\Debug\Customers.pdb
+E:\Sale_15_05\Report\bin\Debug\Froms_Declaration.pdb
+E:\Sale_15_05\Report\bin\Debug\Goods.pdb
+E:\Sale_15_05\Report\bin\Debug\Utilities.pdb
+E:\Sale_15_05\Report\bin\Debug\DevExpress.Data.v11.1.xml
+E:\Sale_15_05\Report\bin\Debug\DevExpress.RichEdit.v11.1.Core.xml
+E:\Sale_15_05\Report\bin\Debug\DevExpress.Utils.v11.1.xml
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraCharts.v11.1.xml
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraEditors.v11.1.xml
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraGrid.v11.1.xml
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraLayout.v11.1.xml
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraNavBar.v11.1.xml
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+E:\Sale_15_05\Report\bin\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraReports.v11.1.xml
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraRichEdit.v11.1.xml
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraTreeList.v11.1.xml
+E:\Sale_15_05\Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Sale_15_05\Report\obj\Debug\Report.AR.uc_ARDetailByCustormer.resources
+E:\Sale_15_05\Report\obj\Debug\Report.AR.uc_ARDetailPayableToSuppliers.resources
+E:\Sale_15_05\Report\obj\Debug\Report.AR.uc_ARPayableTotal.resources
+E:\Sale_15_05\Report\obj\Debug\Report.AR.uc_ARReceivableTotal.resources
+E:\Sale_15_05\Report\obj\Debug\Report.AR.uc_CustormerByContract.resources
+E:\Sale_15_05\Report\obj\Debug\Report.AR.uc_CustormerByOrder.resources
+E:\Sale_15_05\Report\obj\Debug\Report.AR.uc_CustormerTransactions.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Cons.uc_Cons.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Cons.ucBC_PhanTichTieuThuTheoNVBanHang.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Cons.ucBC_SoSanhTieuThuTheoQuay.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Cons.ucSale_ByDate.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Cons.ucSale_CompareByDate.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Cons.uc_Sale_CompareByZone.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Cons.uc_TongHopTieuThuTheoNhomHang.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Cons.uc_BanHangTheoKH.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Cons.uc_BanHangTheoMH.resources
+E:\Sale_15_05\Report\obj\Debug\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.BCDoanhSoTheoKhachHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.BCDoanhSoTheoMatHang.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Form1.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.BCNXTTheoKhoHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.BCNXTTheoLoaiHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.BCNXTTheoThuongHieu.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.BCXuatHangTheoKhachHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmBCNXTTheoMatHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmBCTongHopTonKho.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmBCXuatHangTheoMatHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiTra.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmDanhSachKhachHangGiaoDich.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmDanhSachKHTheoDonDatHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmNhapKhoTheoMatHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiThu.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiTra.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmTongHopTheoThuongHieu.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmTongHopThepNguoiBan.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmGenSelect.resources
+E:\Sale_15_05\Report\obj\Debug\Report.frmReportMains.resources
+E:\Sale_15_05\Report\obj\Debug\CEFA.frmRepostSalescs.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Inv.uc_DanhMucTonKho.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Inv.ucBC_ChiTietNXTTheoMatHang.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoLoaiMatHang.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoNhaCungCap.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Inv.ucBC_TongHopCacKhoTheoLoaiHang.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Inv.ucBC_TongHopNSXTheoThuongHieu.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTCacKho.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTKhoHang.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTTheoMatHang.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Inv.uc_TongHopTonKho.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoKH.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoLoaiMatHang.resources
+E:\Sale_15_05\Report\obj\Debug\Report.Properties.Resources.resources
+E:\Sale_15_05\Report\obj\Debug\Report.TurnOver.ucBC_DanhSoTheoMatHang.resources
+E:\Sale_15_05\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoHoaDonBanHang.resources
+E:\Sale_15_05\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoKH.resources
+E:\Sale_15_05\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoKH.resources
+E:\Sale_15_05\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoLoaiMH.resources
+E:\Sale_15_05\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoMatHang.resources
+E:\Sale_15_05\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoThuongHieu.resources
+E:\Sale_15_05\Report\obj\Debug\Report.dll.licenses
+E:\Sale_15_05\Report\obj\Debug\Report.dll
+E:\Sale_15_05\Report\obj\Debug\Report.pdb
+E:\Sale_15_05\Report\obj\Debug\GenerateResource.read.1.tlog
+E:\Sale_15_05\Report\obj\Debug\GenerateResource.write.1.tlog
+E:\Sale_15_05\Report\bin\Debug\DevExpress.Charts.v11.1.Core.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.Data.v11.1.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.Reports.v11.1.Designer.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.RichEdit.v11.1.Core.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.Utils.v11.1.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraCharts.v11.1.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraReports.v11.1.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraRichEdit.v11.1.dll
+E:\Sale_15_05\Report\bin\Debug\DevExpress.XtraTreeList.v11.1.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\Report.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\Report.pdb
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\BaseBusiness.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\Customers.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.Charts.v11.1.Core.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.Data.v11.1.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.Reports.v11.1.Designer.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.RichEdit.v11.1.Core.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.Utils.v11.1.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraCharts.v11.1.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraReports.v11.1.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraRichEdit.v11.1.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraTreeList.v11.1.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\Froms_Declaration.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\Goods.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\Utilities.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\PagingControl.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\BaseBusiness.pdb
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\Customers.pdb
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\Froms_Declaration.pdb
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\Goods.pdb
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\Utilities.pdb
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.Data.v11.1.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.RichEdit.v11.1.Core.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.Utils.v11.1.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraCharts.v11.1.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraEditors.v11.1.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraGrid.v11.1.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraLayout.v11.1.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraNavBar.v11.1.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraReports.v11.1.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraRichEdit.v11.1.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\bin\Debug\DevExpress.XtraTreeList.v11.1.xml
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.AR.uc_ARDetailByCustormer.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.AR.uc_ARDetailPayableToSuppliers.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.AR.uc_ARPayableTotal.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.AR.uc_ARReceivableTotal.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.AR.uc_CustormerByContract.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.AR.uc_CustormerByOrder.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.AR.uc_CustormerTransactions.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Cons.uc_Cons.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Cons.ucBC_PhanTichTieuThuTheoNVBanHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Cons.ucBC_SoSanhTieuThuTheoQuay.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Cons.ucSale_ByDate.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Cons.ucSale_CompareByDate.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Cons.uc_Sale_CompareByZone.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Cons.uc_TongHopTieuThuTheoNhomHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Cons.uc_BanHangTheoKH.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Cons.uc_BanHangTheoMH.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.BCDoanhSoTheoKhachHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.BCDoanhSoTheoMatHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Form1.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.BCNXTTheoKhoHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.BCNXTTheoLoaiHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.BCNXTTheoThuongHieu.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.BCXuatHangTheoKhachHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmBCNXTTheoMatHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmBCTongHopTonKho.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmBCXuatHangTheoMatHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiTra.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmDanhSachKhachHangGiaoDich.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmDanhSachKHTheoDonDatHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmNhapKhoTheoMatHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiThu.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiTra.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmTongHopTheoThuongHieu.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmTongHopThepNguoiBan.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmGenSelect.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.frmReportMains.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\CEFA.frmRepostSalescs.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Inv.uc_DanhMucTonKho.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Inv.ucBC_ChiTietNXTTheoMatHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoLoaiMatHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoNhaCungCap.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopCacKhoTheoLoaiHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNSXTheoThuongHieu.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTCacKho.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTKhoHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTTheoMatHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Inv.uc_TongHopTonKho.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoKH.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoLoaiMatHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.Properties.Resources.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.TurnOver.ucBC_DanhSoTheoMatHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoHoaDonBanHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoKH.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoKH.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoLoaiMH.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoMatHang.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoThuongHieu.resources
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.dll.licenses
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.dll
+C:\Users\LQVinh\Documents\Visual Studio 2010\Projects\Sale\Report\obj\Debug\Report.pdb
+D:\Vincom\Sale_BaNa\Report\bin\Debug\Report.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\Report.pdb
+D:\Vincom\Sale_BaNa\Report\bin\Debug\BaseBusiness.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\Customers.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.Charts.v11.1.Core.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.Data.v11.1.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.Reports.v11.1.Designer.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.RichEdit.v11.1.Core.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.Utils.v11.1.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraCharts.v11.1.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraReports.v11.1.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraRichEdit.v11.1.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraTreeList.v11.1.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\Froms_Declaration.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\Goods.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\Utilities.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\PagingControl.dll
+D:\Vincom\Sale_BaNa\Report\bin\Debug\BaseBusiness.pdb
+D:\Vincom\Sale_BaNa\Report\bin\Debug\Customers.pdb
+D:\Vincom\Sale_BaNa\Report\bin\Debug\Froms_Declaration.pdb
+D:\Vincom\Sale_BaNa\Report\bin\Debug\Goods.pdb
+D:\Vincom\Sale_BaNa\Report\bin\Debug\Utilities.pdb
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.Data.v11.1.xml
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.RichEdit.v11.1.Core.xml
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.Utils.v11.1.xml
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraCharts.v11.1.xml
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraEditors.v11.1.xml
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraGrid.v11.1.xml
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraLayout.v11.1.xml
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraNavBar.v11.1.xml
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraReports.v11.1.xml
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraRichEdit.v11.1.xml
+D:\Vincom\Sale_BaNa\Report\bin\Debug\DevExpress.XtraTreeList.v11.1.xml
+D:\Vincom\Sale_BaNa\Report\obj\Debug\ResolveAssemblyReference.cache
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.AR.uc_ARDetailByCustormer.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.AR.uc_ARDetailPayableToSuppliers.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.AR.uc_ARPayableTotal.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.AR.uc_ARReceivableTotal.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.AR.uc_CustormerByContract.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.AR.uc_CustormerByOrder.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.AR.uc_CustormerTransactions.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Cons.uc_Cons.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Cons.ucBC_PhanTichTieuThuTheoNVBanHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Cons.ucBC_SoSanhTieuThuTheoQuay.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Cons.ucSale_ByDate.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Cons.ucSale_CompareByDate.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Cons.uc_Sale_CompareByZone.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Cons.uc_TongHopTieuThuTheoNhomHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Cons.uc_BanHangTheoKH.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Cons.uc_BanHangTheoMH.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.BCDoanhSoTheoKhachHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.BCDoanhSoTheoMatHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Form1.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.BCNXTTheoKhoHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.BCNXTTheoLoaiHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.BCNXTTheoThuongHieu.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.BCXuatHangTheoKhachHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmBCNXTTheoMatHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmBCTongHopTonKho.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmBCXuatHangTheoMatHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiTra.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmDanhSachKhachHangGiaoDich.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmDanhSachKHTheoDonDatHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmNhapKhoTheoMatHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiThu.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiTra.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmTongHopTheoThuongHieu.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmTongHopThepNguoiBan.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmGenSelect.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.frmReportMains.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\CEFA.frmRepostSalescs.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Inv.uc_DanhMucTonKho.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_ChiTietNXTTheoMatHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoLoaiMatHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoNhaCungCap.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_TongHopCacKhoTheoLoaiHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_TongHopNSXTheoThuongHieu.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTCacKho.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTKhoHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTTheoMatHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Inv.uc_TongHopTonKho.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoKH.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoLoaiMatHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.Properties.Resources.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_DanhSoTheoMatHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoHoaDonBanHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoKH.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoKH.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoLoaiMH.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoMatHang.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoThuongHieu.resources
+D:\Vincom\Sale_BaNa\Report\obj\Debug\GenerateResource.read.1.tlog
+D:\Vincom\Sale_BaNa\Report\obj\Debug\GenerateResource.write.1.tlog
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.dll.licenses
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.dll
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.pdb
+D:\Vincom\Sale_BaNa\Report\obj\Debug\Report.AR.uc_NhacNo.resources
+E:\CSS\Sale_BaNa\Report\bin\Debug\Report.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\Report.pdb
+E:\CSS\Sale_BaNa\Report\bin\Debug\BaseBusiness.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\Customers.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.Charts.v11.1.Core.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.Data.v11.1.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.Reports.v11.1.Designer.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.RichEdit.v11.1.Core.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.Utils.v11.1.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraCharts.v11.1.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraReports.v11.1.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraRichEdit.v11.1.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraTreeList.v11.1.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\Froms_Declaration.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\Goods.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\Utilities.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\PagingControl.dll
+E:\CSS\Sale_BaNa\Report\bin\Debug\BaseBusiness.pdb
+E:\CSS\Sale_BaNa\Report\bin\Debug\Customers.pdb
+E:\CSS\Sale_BaNa\Report\bin\Debug\Froms_Declaration.pdb
+E:\CSS\Sale_BaNa\Report\bin\Debug\Goods.pdb
+E:\CSS\Sale_BaNa\Report\bin\Debug\Utilities.pdb
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.Data.v11.1.xml
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.RichEdit.v11.1.Core.xml
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.Utils.v11.1.xml
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraCharts.v11.1.xml
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraEditors.v11.1.xml
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraGrid.v11.1.xml
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraLayout.v11.1.xml
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraNavBar.v11.1.xml
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraReports.v11.1.xml
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraRichEdit.v11.1.xml
+E:\CSS\Sale_BaNa\Report\bin\Debug\DevExpress.XtraTreeList.v11.1.xml
+E:\CSS\Sale_BaNa\Report\obj\Debug\ResolveAssemblyReference.cache
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.AR.uc_NhacNo.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.AR.uc_ARDetailByCustormer.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.AR.uc_ARDetailPayableToSuppliers.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.AR.uc_ARPayableTotal.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.AR.uc_ARReceivableTotal.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.AR.uc_CustormerByContract.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.AR.uc_CustormerByOrder.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.AR.uc_CustormerTransactions.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Cons.uc_Cons.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Cons.ucBC_PhanTichTieuThuTheoNVBanHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Cons.ucBC_SoSanhTieuThuTheoQuay.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Cons.ucSale_ByDate.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Cons.ucSale_CompareByDate.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Cons.uc_Sale_CompareByZone.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Cons.uc_TongHopTieuThuTheoNhomHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Cons.uc_BanHangTheoKH.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Cons.uc_BanHangTheoMH.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.FormRepost.BaoCaoXuatKhoTheoKhachHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.BCDoanhSoTheoHoaDonBanHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.BCDoanhSoTheoKhachHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.BCDoanhSoTheoMatHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Form1.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.BCNXTTheoKhoHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.BCNXTTheoLoaiHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.BCNXTTheoThuongHieu.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoKhachHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.BCTongHopDoanhThuTheoMatHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.BCXuatHangTheoKhachHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmBaoCaoNhapHangTheoNhaCungCap.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmBaoCaoTongHopCacKhoTheoLoaiHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmBaoCaoTongHopNXTCacKho.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmBCNXTTheoMatHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmBCTONGHOPNXTTHEOMATHANG.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmBCTongHopTonKho.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmBCXuatHangTheoMatHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiThuKhachHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmChiTietCongNoPhaiTra.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmDanhSachKhachHangGiaoDich.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmDanhSachKhachHangTheoHopDong.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmDanhSachKHTheoDonDatHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmNhapKhoTheoMatHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiThu.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmTongHopCongNoPhaiTra.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmTongHopTheoThuongHieu.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmTongHopThepNguoiBan.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.rptTongHopDoanhThuTheoLoaiHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmGenSelect.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.frmReportMains.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\CEFA.frmRepostSalescs.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Inv.uc_DanhMucTonKho.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_ChiTietNXTTheoMatHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoLoaiMatHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_NhapKhoTheoNhaCungCap.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_TongHopCacKhoTheoLoaiHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_TongHopNSXTheoThuongHieu.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTCacKho.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTKhoHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_TongHopNXTTheoMatHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Inv.uc_TongHopTonKho.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoKH.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Inv.ucBC_XuatKhoTheoLoaiMatHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.Properties.Resources.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_DanhSoTheoMatHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoHoaDonBanHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoKH.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoKH.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoLoaiMH.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoMatHang.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoThuongHieu.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\GenerateResource.read.1.tlog
+E:\CSS\Sale_BaNa\Report\obj\Debug\GenerateResource.write.1.tlog
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.dll.licenses
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.dll
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.pdb
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_TongHopDoanhSoTheoLoaiMH_Chart.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheoKhuVuc_Chart.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_DoanhSoTheothoigian_Chart.resources
+E:\CSS\Sale_BaNa\Report\obj\Debug\Report.TurnOver.ucBC_DanhSoTheoHinhThucThanhToan.resources
+F:\APP_2012\BMS\Report\bin\Debug\Report.dll
+F:\APP_2012\BMS\Report\bin\Debug\Report.pdb
+F:\APP_2012\BMS\Report\bin\Debug\BaseBusiness.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.Charts.v11.1.Core.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.Data.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.Reports.v11.1.Designer.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.RichEdit.v11.1.Core.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.Utils.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraCharts.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraReports.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraRichEdit.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraTreeList.v11.1.dll
+F:\APP_2012\BMS\Report\bin\Debug\Forms.dll
+F:\APP_2012\BMS\Report\bin\Debug\Utilities.dll
+F:\APP_2012\BMS\Report\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+F:\APP_2012\BMS\Report\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+F:\APP_2012\BMS\Report\bin\Debug\BaseBusiness.pdb
+F:\APP_2012\BMS\Report\bin\Debug\Forms.pdb
+F:\APP_2012\BMS\Report\bin\Debug\Utilities.pdb
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.Data.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.RichEdit.v11.1.Core.xml
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.Utils.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraCharts.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraEditors.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraGrid.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraLayout.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraNavBar.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraReports.v11.1.Extensions.xml
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraReports.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraRichEdit.v11.1.xml
+F:\APP_2012\BMS\Report\bin\Debug\DevExpress.XtraTreeList.v11.1.xml
+F:\APP_2012\BMS\Report\obj\Debug\ResolveAssemblyReference.cache
+F:\APP_2012\BMS\Report\obj\Debug\BMS.ucBaoCaoDoanhThu.resources
+F:\APP_2012\BMS\Report\obj\Debug\BMS.uc_BCDSHopDongKhachThue.resources
+F:\APP_2012\BMS\Report\obj\Debug\BMS.frmGenSelect.resources
+F:\APP_2012\BMS\Report\obj\Debug\BMS.frmReportMains.resources
+F:\APP_2012\BMS\Report\obj\Debug\Report.Properties.Resources.resources
+F:\APP_2012\BMS\Report\obj\Debug\GenerateResource.read.1.tlog
+F:\APP_2012\BMS\Report\obj\Debug\GenerateResource.write.1.tlog
+F:\APP_2012\BMS\Report\obj\Debug\Report.dll
+F:\APP_2012\BMS\Report\obj\Debug\Report.pdb
+F:\APP_2012\BMS\Report\obj\Debug\BMS.ucBaoCaoTuoiNo.resources
+F:\APP_2012\BMS\Report\obj\Debug\BMS.ucDanhGiaCoc.resources
+F:\APP_2012\BMS\Report\obj\Debug\BMS.ucDanhGiaDoanhThuTraTruoc.resources
+F:\APP_2012\BMS\Report\obj\Debug\BMS.ucBC_RentRoll.resources
+F:\APP_2012\BMS\Report\obj\Debug\BMS.uc_BCCongNoChiTiet.resources
+F:\APP_2012\BMS\Report\obj\Debug\BMS.ucBaoCaoCongNo.resources
+F:\APP_2012\BMS\Report\obj\Debug\BMS.ucBaoCaoChiTietCongNo.resources
+F:\APP_2012\BMS\Report\bin\Debug\Custormer.dll
+F:\APP_2012\BMS\Report\bin\Debug\Contract.dll
+F:\APP_2012\BMS\Report\bin\Debug\Product.dll
+F:\APP_2012\BMS\Report\bin\Debug\Custormer.pdb
+F:\APP_2012\BMS\Report\bin\Debug\Cashering.pdb
+F:\APP_2012\BMS\Report\bin\Debug\Contract.pdb
+F:\APP_2012\BMS\Report\bin\Debug\Product.pdb
+F:\APP_2012\BMS\Report\bin\Debug\Cashering.exe
+F:\APP_2012\BMS\Report\obj\Debug\BMS.ucBaoCaoChiTietCongNoTheoKhachHang.resources
+F:\APP_2012\BMS\Report\obj\Debug\BMS.ucBaoCaoDanhSachXe.resources
+F:\APP_2012\BMS\Report\obj\Debug\BMS.ucBaoCaoHopDongThanhLyTruocHan.resources
+F:\APP_2012\BMS\Report\obj\Debug\BMS.ucBaoCaoSoSanhDoanhThu.resources
+F:\APP_2012\BMS\Report\obj\Debug\BMS.ucDanhSachHopDong.resources
+D:\BMS\BMS Code\Report\bin\Debug\Report.dll
+D:\BMS\BMS Code\Report\bin\Debug\Report.pdb
+D:\BMS\BMS Code\Report\bin\Debug\BaseBusiness.dll
+D:\BMS\BMS Code\Report\bin\Debug\Contract.dll
+D:\BMS\BMS Code\Report\bin\Debug\Custormer.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.Charts.v11.1.Core.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.Data.v11.1.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.Reports.v11.1.Designer.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.RichEdit.v11.1.Core.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.Utils.v11.1.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.XtraCharts.v11.1.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.XtraEditors.v11.1.Design.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.XtraReports.v11.1.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.XtraReports.v11.1.Extensions.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.XtraRichEdit.v11.1.dll
+D:\BMS\BMS Code\Report\bin\Debug\DevExpress.XtraTreeList.v11.1.dll
+D:\BMS\BMS Code\Report\bin\Debug\Forms.dll
+D:\BMS\BMS Code\Report\bin\Debug\Inventory.dll
+D:\BMS\BMS Code\Report\bin\Debug\Utilities.dll
+D:\BMS\BMS Code\Report\bin\Debug\Cashering.dll
+D:\BMS\BMS Code\Report\bin\Debug\FileManager.dll
+D:\BMS\BMS Code\Report\bin\Debug\Product.dll
+D:\BMS\BMS Code\Report\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\BMS\BMS Code\Report\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\BMS\BMS Code\Report\bin\Debug\Hotline.dll
+D:\BMS\BMS Code\Report\bin\Debug\office.dll
+D:\BMS\BMS Code\Report\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\BMS\BMS Code\Report\bin\Debug\BaseBusiness.pdb
+D:\BMS\BMS Code\Report\bin\Debug\Contract.pdb
+D:\BMS\BMS Code\Report\bin\Debug\Custormer.pdb
+D:\BMS\BMS Code\Report\bin\Debug\Forms.pdb
+D:\BMS\BMS Code\Report\bin\Debug\Inventory.pdb
+D:\BMS\BMS Code\Report\bin\Debug\Utilities.pdb
+D:\BMS\BMS Code\Report\bin\Debug\Cashering.pdb
+D:\BMS\BMS Code\Report\bin\Debug\FileManager.pdb
+D:\BMS\BMS Code\Report\bin\Debug\Product.pdb
+D:\BMS\BMS Code\Report\bin\Debug\Hotline.pdb
+D:\BMS\BMS Code\Report\bin\Debug\office.xml
+D:\BMS\BMS Code\Report\obj\Debug\Report.csprojResolveAssemblyReference.cache
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBaoCaoChiTietDanhSachXe.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBaoCaoCacKhoanBaoLanhNganHang.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBaoCaoChiTietCongNo.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBaoCaoChiTietCongNoTheoKhachHang.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBaoCaoCongNo.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBaoCaoDanhSachXe.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBaoCaoDoanhThu.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBaoCaoHopDongSapHetHan.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBaoCaoHopDongThanhLyTruocHan.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBaoCaoSoSanhDoanhThu.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBaoCaoTuoiNo.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBC_ElectricityService.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBC_OneIndexService.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBC_RentRoll.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBC_ThreeIndexService.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBC_WaterService.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucDanhGiaCoc.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucDanhGiaDoanhThuTraTruoc.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucDanhSachHopDong.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBC_ContractWF_Contract.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBC_ContractWF_ContractDetail.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBC_ContractWF_ContractSummary.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBC_ContractWF_PreContractDetail.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.Uc_rpt_ExportMaterialSummary.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.Uc_rpt_ImportMaterialSummary.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.Uc_rpt_Export_Transfer_Inv.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.Uc_rpt_InvMaterialHistory.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.Uc_rpt_CompareInvMaxMin.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucReportRegistration.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBaoCaoDienTichTang.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucBaoCaoTongHopDienTichTheoTang.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucReportByMonth.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucReportByYear.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucRequestDone.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.ucRequestProcessing.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.uc_BCDSHopDongKhachThue.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.frmGenSelect.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.frmReportMains.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.frmReportImportOrderMonitor.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.frmReportInventorySummary.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.Uc_rpt_ExportInv.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.Uc_rpt_ImportInvMaterial.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.Uc_Rpt_InvOrder.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.Uc_rpt_ReuseQuantity.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.Uc_rpt_TransferInv.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.Uc_rpt_TotalViolation.resources
+D:\BMS\BMS Code\Report\obj\Debug\BMS.Uc_rpt_TotalViolationType.resources
+D:\BMS\BMS Code\Report\obj\Debug\Report.Properties.Resources.resources
+D:\BMS\BMS Code\Report\obj\Debug\Report.csproj.GenerateResource.Cache
+D:\BMS\BMS Code\Report\obj\Debug\Report.dll.licenses
+D:\BMS\BMS Code\Report\obj\Debug\Report.dll
+D:\BMS\BMS Code\Report\obj\Debug\Report.pdb

@@ -1,0 +1,43 @@
+﻿Uninstalling assembly 'D:\Projects\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.InstallLog
+   assemblypath = D:\Projects\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe
+Removing EventLog source Youtube Window Service.
+Service Youtube Window Service is being removed from the system...
+Service Youtube Window Service was successfully removed from the system.
+Installing assembly 'D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.InstallLog
+   assemblypath = D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe
+Installing service YUpdateQLSXService...
+Service YUpdateQLSXService has been successfully installed.
+Creating EventLog source YUpdateQLSXService in log Application...
+Committing assembly 'D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.InstallLog
+   assemblypath = D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe
+Uninstalling assembly 'D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.InstallLog
+   assemblypath = D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe
+Removing EventLog source YUpdateQLSXService.
+Service YUpdateQLSXService is being removed from the system...
+Service YUpdateQLSXService was successfully removed from the system.
+Attempt to stop service YUpdateQLSXService.
+Installing assembly 'D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.InstallLog
+   assemblypath = D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe
+Installing service YUpdateQLSXService...
+Service YUpdateQLSXService has been successfully installed.
+Creating EventLog source YUpdateQLSXService in log Application...
+Committing assembly 'D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.InstallLog
+   assemblypath = D:\Projects\QUẢN LÝ KẾ HOẠCH THIẾT KẾ\Window Service\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe

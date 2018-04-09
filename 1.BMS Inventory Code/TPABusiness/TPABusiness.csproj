@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7C4E7BC3-FA23-4AD1-BAA0-F2AF72D2FBAE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TPABusiness</RootNamespace>
+    <AssemblyName>TPABusiness</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+    <!--<SccProjectName>%24/BMS Inv.root/BMS Inv</SccProjectName>
+    <SccLocalPath>..</SccLocalPath>
+    <SccAuxPath />
+    <SccProvider>MSSCCI:Dynamsoft SourceAnywhere Standalone</SccProvider>-->
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Printing.v11.1.Core, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v11.1, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v11.1, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v11.1, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v11.1, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v11.1, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v11.1, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BO\BaseBO.cs" />
+    <Compile Include="BO\BaseBusinessBO.cs" />
+    <Compile Include="BO\BuyProductPartsBO.cs" />
+    <Compile Include="BO\CasePaidBO.cs" />
+    <Compile Include="BO\CaseVoucherDebtBO.cs" />
+    <Compile Include="BO\CaseVoucherDebtHistoryBO.cs" />
+    <Compile Include="BO\CriteriaImportBO.cs" />
+    <Compile Include="BO\CriteriaImportImageBO.cs" />
+    <Compile Include="BO\C_CostBO.cs" />
+    <Compile Include="BO\C_CostGroupBO.cs" />
+    <Compile Include="BO\C_CostGroupNewBO.cs" />
+    <Compile Include="BO\C_CostProductGroupLinkBO.cs" />
+    <Compile Include="BO\C_CostProductGroupLinkNewBO.cs" />
+    <Compile Include="BO\C_CostQuotationItemLinkBO.cs" />
+    <Compile Include="BO\C_CostQuotationItemLinkNewBO.cs" />
+    <Compile Include="BO\C_CostQuotationLinkBO.cs" />
+    <Compile Include="BO\C_GroundBO.cs" />
+    <Compile Include="BO\C_ProductGroupBO.cs" />
+    <Compile Include="BO\C_QuotationBO.cs" />
+    <Compile Include="BO\C_QuotationDetailBO.cs" />
+    <Compile Include="BO\C_QuotationDetail_KDBO.cs" />
+    <Compile Include="BO\C_QuotationDetail_SXBO.cs" />
+    <Compile Include="BO\C_Quotation_KDBO.cs" />
+    <Compile Include="BO\C_UserBO.cs" />
+    <Compile Include="BO\C_UserGroupBO.cs" />
+    <Compile Include="BO\C_VersionBO.cs" />
+    <Compile Include="BO\DepartmentsBO.cs" />
+    <Compile Include="BO\DesignSummaryBO.cs" />
+    <Compile Include="BO\DesignSummaryItemBO.cs" />
+    <Compile Include="BO\ManufacturerBO.cs" />
+    <Compile Include="BO\MaterialGroupBO.cs" />
+    <Compile Include="BO\MaterialModuleLinkBO.cs" />
+    <Compile Include="BO\OrderInvoiceBO.cs" />
+    <Compile Include="BO\OrderRequirePaidBO.cs" />
+    <Compile Include="BO\OrdersBO.cs" />
+    <Compile Include="BO\OrdersFileBO.cs" />
+    <Compile Include="BO\PartAccessoriesBO.cs" />
+    <Compile Include="BO\PartBorrowBO.cs" />
+    <Compile Include="BO\PartsBO.cs" />
+    <Compile Include="BO\PartsConfigLinkBO.cs" />
+    <Compile Include="BO\PartsGeneralBO.cs" />
+    <Compile Include="BO\PartsGeneralProjectLinkBO.cs" />
+    <Compile Include="BO\PartsNormBO.cs" />
+    <Compile Include="BO\PartsNotDMVTBO.cs" />
+    <Compile Include="BO\PartsPriceAuditBO.cs" />
+    <Compile Include="BO\PartUserLinkBO.cs" />
+    <Compile Include="BO\PaymentTableBO.cs" />
+    <Compile Include="BO\PaymentTableItemBO.cs" />
+    <Compile Include="BO\PayVoucherDebtBO.cs" />
+    <Compile Include="BO\PayVouchersBO.cs" />
+    <Compile Include="BO\PProductInforBO.cs" />
+    <Compile Include="BO\ProductPartsImportBO.cs" />
+    <Compile Include="BO\ProjectBO.cs" />
+    <Compile Include="BO\ProjectDirectionBO.cs" />
+    <Compile Include="BO\ProjectDirectionDetailBO.cs" />
+    <Compile Include="BO\ProjectDirectionTypeBO.cs" />
+    <Compile Include="BO\ProjectModuleBO.cs" />
+    <Compile Include="BO\ProjectProblemActionBO.cs" />
+    <Compile Include="BO\ProjectProblemActionUserLinkBO.cs" />
+    <Compile Include="BO\ProjectProblemBO.cs" />
+    <Compile Include="BO\ProjectProblemImageBO.cs" />
+    <Compile Include="BO\ProjectProductImportBO.cs" />
+    <Compile Include="BO\ProjectProductsBO.cs" />
+    <Compile Include="BO\ProjectStatusBO.cs" />
+    <Compile Include="BO\ProposalBuyBO.cs" />
+    <Compile Include="BO\ProposalProblemActionBO.cs" />
+    <Compile Include="BO\ProposalProblemBO.cs" />
+    <Compile Include="BO\ProposalSentStatusBO.cs" />
+    <Compile Include="BO\RequestImportWarehouseBO.cs" />
+    <Compile Include="BO\RequireMaterialBO.cs" />
+    <Compile Include="BO\RequirePartsBO.cs" />
+    <Compile Include="BO\RequireProductOutBO.cs" />
+    <Compile Include="BO\SessionBO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BO\SupplierContractBO.cs" />
+    <Compile Include="BO\SupplierMaterialGroupLinkBO.cs" />
+    <Compile Include="BO\SuppliersBO.cs" />
+    <Compile Include="BO\SuppliersManufacturerLinkBO.cs" />
+    <Compile Include="BO\SuppliersUserLinkBO.cs" />
+    <Compile Include="BO\UserGroup1BO.cs" />
+    <Compile Include="BO\UsersBO.cs" />
+    <Compile Include="BO\WorkingDiariesBO.cs" />
+    <Compile Include="BO\WorkingDiariesLocationBO.cs" />
+    <Compile Include="Exceptions\BOException.cs" />
+    <Compile Include="Exceptions\FacadeException.cs" />
+    <Compile Include="Exceptions\ViewException.cs" />
+    <Compile Include="Facade\BaseFacade.cs" />
+    <Compile Include="Facade\BuyProductPartsFacade.cs" />
+    <Compile Include="Facade\CasePaidFacade.cs" />
+    <Compile Include="Facade\CaseVoucherDebtFacade.cs" />
+    <Compile Include="Facade\CaseVoucherDebtHistoryFacade.cs" />
+    <Compile Include="Facade\CriteriaImportFacade.cs" />
+    <Compile Include="Facade\CriteriaImportImageFacade.cs" />
+    <Compile Include="Facade\C_CostFacade.cs" />
+    <Compile Include="Facade\C_CostGroupFacade.cs" />
+    <Compile Include="Facade\C_CostGroupNewFacade.cs" />
+    <Compile Include="Facade\C_CostProductGroupLinkFacade.cs" />
+    <Compile Include="Facade\C_CostProductGroupLinkNewFacade.cs" />
+    <Compile Include="Facade\C_CostQuotationItemLinkFacade.cs" />
+    <Compile Include="Facade\C_CostQuotationItemLinkNewFacade.cs" />
+    <Compile Include="Facade\C_CostQuotationLinkFacade.cs" />
+    <Compile Include="Facade\C_GroundFacade.cs" />
+    <Compile Include="Facade\C_ProductGroupFacade.cs" />
+    <Compile Include="Facade\C_QuotationDetailFacade.cs" />
+    <Compile Include="Facade\C_QuotationDetail_KDFacade.cs" />
+    <Compile Include="Facade\C_QuotationDetail_SXFacade.cs" />
+    <Compile Include="Facade\C_QuotationFacade.cs" />
+    <Compile Include="Facade\C_Quotation_KDFacade.cs" />
+    <Compile Include="Facade\C_UserFacade.cs" />
+    <Compile Include="Facade\C_UserGroupFacade.cs" />
+    <Compile Include="Facade\C_VersionFacade.cs" />
+    <Compile Include="Facade\DepartmentsFacade.cs" />
+    <Compile Include="Facade\DesignSummaryFacade.cs" />
+    <Compile Include="Facade\DesignSummaryItemFacade.cs" />
+    <Compile Include="Facade\EventsLogErrorFacade.cs" />
+    <Compile Include="Facade\EventsLogFacade.cs" />
+    <Compile Include="Facade\ManufacturerFacade.cs" />
+    <Compile Include="Facade\MaterialGroupFacade.cs" />
+    <Compile Include="Facade\MaterialModuleLinkFacade.cs" />
+    <Compile Include="Facade\OrderInvoiceFacade.cs" />
+    <Compile Include="Facade\OrderRequirePaidFacade.cs" />
+    <Compile Include="Facade\OrdersFacade.cs" />
+    <Compile Include="Facade\OrdersFileFacade.cs" />
+    <Compile Include="Facade\PartAccessoriesFacade.cs" />
+    <Compile Include="Facade\PartBorrowFacade.cs" />
+    <Compile Include="Facade\PartsConfigLinkFacade.cs" />
+    <Compile Include="Facade\PartsFacade.cs" />
+    <Compile Include="Facade\PartsGeneralFacade.cs" />
+    <Compile Include="Facade\PartsGeneralProjectLinkFacade.cs" />
+    <Compile Include="Facade\PartsNormFacade.cs" />
+    <Compile Include="Facade\PartsNotDMVTFacade.cs" />
+    <Compile Include="Facade\PartsPriceAuditFacade.cs" />
+    <Compile Include="Facade\PartUserLinkFacade.cs" />
+    <Compile Include="Facade\PaymentTableFacade.cs" />
+    <Compile Include="Facade\PaymentTableItemFacade.cs" />
+    <Compile Include="Facade\PayVoucherDebtFacade.cs" />
+    <Compile Include="Facade\PayVouchersFacade.cs" />
+    <Compile Include="Facade\PProductInforFacade.cs" />
+    <Compile Include="Facade\ProductPartsImportFacade.cs" />
+    <Compile Include="Facade\ProjectDirectionDetailFacade.cs" />
+    <Compile Include="Facade\ProjectDirectionFacade.cs" />
+    <Compile Include="Facade\ProjectDirectionTypeFacade.cs" />
+    <Compile Include="Facade\ProjectFacade.cs" />
+    <Compile Include="Facade\ProjectModuleFacade.cs" />
+    <Compile Include="Facade\ProjectProblemActionFacade.cs" />
+    <Compile Include="Facade\ProjectProblemActionUserLinkFacade.cs" />
+    <Compile Include="Facade\ProjectProblemFacade.cs" />
+    <Compile Include="Facade\ProjectProblemImageFacade.cs" />
+    <Compile Include="Facade\ProjectProductImportFacade.cs" />
+    <Compile Include="Facade\ProjectProductsFacade.cs" />
+    <Compile Include="Facade\ProjectStatusFacade.cs" />
+    <Compile Include="Facade\ProposalBuyFacade.cs" />
+    <Compile Include="Facade\ProposalProblemActionFacade.cs" />
+    <Compile Include="Facade\ProposalProblemFacade.cs" />
+    <Compile Include="Facade\ProposalSentStatusFacade.cs" />
+    <Compile Include="Facade\RequestImportWarehouseFacade.cs" />
+    <Compile Include="Facade\RequireMaterialFacade.cs" />
+    <Compile Include="Facade\RequirePartsFacade.cs" />
+    <Compile Include="Facade\RequireProductOutFacade.cs" />
+    <Compile Include="Facade\ShiftFacade.cs" />
+    <Compile Include="Facade\SessionFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Facade\SupplierContractFacade.cs" />
+    <Compile Include="Facade\SupplierMaterialGroupLinkFacade.cs" />
+    <Compile Include="Facade\SuppliersFacade.cs" />
+    <Compile Include="Facade\SuppliersManufacturerLinkFacade.cs" />
+    <Compile Include="Facade\SuppliersUserLinkFacade.cs" />
+    <Compile Include="Facade\UserGroup1Facade.cs" />
+    <Compile Include="Facade\UsersFacade.cs" />
+    <Compile Include="Facade\WorkingDiariesFacade.cs" />
+    <Compile Include="Facade\WorkingDiariesLocationFacade.cs" />
+    <Compile Include="Model\BaseModel.cs" />
+    <Compile Include="Model\BuyProductPartsModel.cs" />
+    <Compile Include="Model\CasePaidModel.cs" />
+    <Compile Include="Model\CaseVoucherDebtHistoryModel.cs" />
+    <Compile Include="Model\CaseVoucherDebtModel.cs" />
+    <Compile Include="Model\CriteriaImportImageModel.cs" />
+    <Compile Include="Model\CriteriaImportModel.cs" />
+    <Compile Include="Model\C_CostGroupModel.cs" />
+    <Compile Include="Model\C_CostGroupNewModel.cs" />
+    <Compile Include="Model\C_CostModel.cs" />
+    <Compile Include="Model\C_CostProductGroupLinkModel.cs" />
+    <Compile Include="Model\C_CostProductGroupLinkNewModel.cs" />
+    <Compile Include="Model\C_CostQuotationItemLinkModel.cs" />
+    <Compile Include="Model\C_CostQuotationItemLinkNewModel.cs" />
+    <Compile Include="Model\C_CostQuotationLinkModel.cs" />
+    <Compile Include="Model\C_GroundModel.cs" />
+    <Compile Include="Model\C_ProductGroupModel.cs" />
+    <Compile Include="Model\C_QuotationDetailModel.cs" />
+    <Compile Include="Model\C_QuotationDetail_KDModel.cs" />
+    <Compile Include="Model\C_QuotationDetail_SXModel.cs" />
+    <Compile Include="Model\C_QuotationModel.cs" />
+    <Compile Include="Model\C_Quotation_KDModel.cs" />
+    <Compile Include="Model\C_UserGroupModel.cs" />
+    <Compile Include="Model\C_UserModel.cs" />
+    <Compile Include="Model\C_VersionModel.cs" />
+    <Compile Include="Model\DepartmentsModel.cs" />
+    <Compile Include="Model\DesignSummaryItemModel.cs" />
+    <Compile Include="Model\DesignSummaryModel.cs" />
+    <Compile Include="Model\EventsLogErrorModel.cs" />
+    <Compile Include="Model\EventsLogModel.cs" />
+    <Compile Include="Model\ManufacturerModel.cs" />
+    <Compile Include="Model\MaterialGroupModel.cs" />
+    <Compile Include="Model\MaterialModuleLinkModel.cs" />
+    <Compile Include="Model\OrderInvoiceModel.cs" />
+    <Compile Include="Model\OrderRequirePaidModel.cs" />
+    <Compile Include="Model\OrdersFileModel.cs" />
+    <Compile Include="Model\OrdersModel.cs" />
+    <Compile Include="Model\PartAccessoriesModel.cs" />
+    <Compile Include="Model\PartBorrowModel.cs" />
+    <Compile Include="Model\PartsConfigLinkModel.cs" />
+    <Compile Include="Model\PartsGeneralModel.cs" />
+    <Compile Include="Model\PartsGeneralProjectLinkModel.cs" />
+    <Compile Include="Model\PartsModel.cs" />
+    <Compile Include="Model\PartsNormModel.cs" />
+    <Compile Include="Model\PartsNotDMVTModel.cs" />
+    <Compile Include="Model\PartsPriceAuditModel.cs" />
+    <Compile Include="Model\PartUserLinkModel.cs" />
+    <Compile Include="Model\PaymentTableItemModel.cs" />
+    <Compile Include="Model\PaymentTableModel.cs" />
+    <Compile Include="Model\PayVoucherDebtModel.cs" />
+    <Compile Include="Model\PayVouchersModel.cs" />
+    <Compile Include="Model\PProductInforModel.cs" />
+    <Compile Include="Model\ProductPartsImportModel.cs" />
+    <Compile Include="Model\ProjectDirectionDetailModel.cs" />
+    <Compile Include="Model\ProjectDirectionModel.cs" />
+    <Compile Include="Model\ProjectDirectionTypeModel.cs" />
+    <Compile Include="Model\ProjectModel.cs" />
+    <Compile Include="Model\ProjectModuleModel.cs" />
+    <Compile Include="Model\ProjectProblemActionModel.cs" />
+    <Compile Include="Model\ProjectProblemActionUserLinkModel.cs" />
+    <Compile Include="Model\ProjectProblemImageModel.cs" />
+    <Compile Include="Model\ProjectProblemModel.cs" />
+    <Compile Include="Model\ProjectProductImportModel.cs" />
+    <Compile Include="Model\ProjectProductsModel.cs" />
+    <Compile Include="Model\ProjectStatusModel.cs" />
+    <Compile Include="Model\ProposalBuyModel.cs" />
+    <Compile Include="Model\ProposalProblemActionModel.cs" />
+    <Compile Include="Model\ProposalProblemModel.cs" />
+    <Compile Include="Model\ProposalSentStatusModel.cs" />
+    <Compile Include="Model\RequestImportWarehouseModel.cs" />
+    <Compile Include="Model\RequireMaterialModel.cs" />
+    <Compile Include="Model\RequirePartsModel.cs" />
+    <Compile Include="Model\RequireProductOutModel.cs" />
+    <Compile Include="Model\ShiftModel.cs" />
+    <Compile Include="Model\SessionModel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\SupplierContractModel.cs" />
+    <Compile Include="Model\SupplierMaterialGroupLinkModel.cs" />
+    <Compile Include="Model\SuppliersManufacturerLinkModel.cs" />
+    <Compile Include="Model\SuppliersModel.cs" />
+    <Compile Include="Model\SuppliersUserLinkModel.cs" />
+    <Compile Include="Model\UserGroup1Model.cs" />
+    <Compile Include="Model\UsersModel.cs" />
+    <Compile Include="Model\WorkingDiariesLocationModel.cs" />
+    <Compile Include="Model\WorkingDiariesModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\BetweenExpression.cs" />
+    <Compile Include="Utils\CommunicationManager.cs" />
+    <Compile Include="Utils\DBUtils.cs" />
+    <Compile Include="Utils\DefValues.cs" />
+    <Compile Include="Utils\Expression.cs" />
+    <Compile Include="Utils\FTPFactory.cs" />
+    <Compile Include="Utils\FTPFactory1.cs" />
+    <Compile Include="Utils\Global.cs" />
+    <Compile Include="Utils\MD5.cs" />
+    <Compile Include="Utils\ProcessTransaction.cs" />
+    <Compile Include="Utils\PropertyUtils.cs" />
+    <Compile Include="Utils\SecUtils.cs" />
+    <Compile Include="Utils\SQLHelper.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

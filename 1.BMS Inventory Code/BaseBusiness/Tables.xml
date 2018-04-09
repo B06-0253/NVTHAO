@@ -1,0 +1,138 @@
+<Tables>
+
+	<Table>
+		<name>ActivityLog</name>
+		<column>
+			<name>tableName</name>
+			<dataType>char</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Table Name</alias>
+			<number>1</number>
+		</column>
+		<column>
+			<name>subTableName</name>
+			<dataType>char</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Sub Table Name</alias>
+			<number>2</number>
+		</column>
+		<column>
+			<name>keyID</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Key</alias>
+			<number>3</number>
+		</column>
+		<column>
+			<name>subKeyID</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>SubKey</alias>
+			<number>4</number>
+		</column>
+		<column>
+			<name>action</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Action</alias>
+			<number>5</number>
+		</column>
+		<column>
+			<name>userProcess</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>User Process</alias>
+			<number>6</number>
+		</column>
+		<column>
+			<name>dateProcess</name>
+			<dataType>datetime</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Date Process</alias>
+			<number>7</number>
+		</column>
+		<column>
+			<name>columnChange</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Column Change</alias>
+			<number>8</number>
+		</column>
+		<column>
+			<name>oldValue</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Old Value</alias>
+			<number>9</number>
+		</column>
+		<column>
+			<name>newValue</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>New Value</alias>
+			<number>10</number>
+		</column>
+		<column>
+			<name>dataType</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Data Type</alias>
+			<number>11</number>
+		</column>
+		<column>
+			<name>iD</name>
+			<dataType>bigint</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>ID</alias>
+			<number>12</number>
+		</column>
+		<column>
+			<name>status</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Status</alias>
+			<number>13</number>
+		</column>
+	</Table>
+
+</Tables>
+
