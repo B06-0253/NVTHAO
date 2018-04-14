@@ -115,3 +115,10 @@ D:\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resourc
 D:\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
 D:\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
 D:\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb
+D:\GIT\NVTHAO\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.dll
+D:\GIT\NVTHAO\1.BMS Inventory Code\TPABusiness\bin\x86\Debug\TPABusiness.pdb
+D:\GIT\NVTHAO\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csprojResolveAssemblyReference.cache
+D:\GIT\NVTHAO\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.Properties.Resources.resources
+D:\GIT\NVTHAO\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.csproj.GenerateResource.Cache
+D:\GIT\NVTHAO\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.dll
+D:\GIT\NVTHAO\1.BMS Inventory Code\TPABusiness\obj\x86\Debug\TPABusiness.pdb

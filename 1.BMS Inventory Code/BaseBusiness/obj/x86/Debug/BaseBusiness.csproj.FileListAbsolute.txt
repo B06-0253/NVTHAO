@@ -337,3 +337,16 @@ D:\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
 D:\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.csproj.GenerateResource.Cache
 D:\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
 D:\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb
+D:\GIT\NVTHAO\1.BMS Inventory Code\BaseBusiness\bin\x86\Debug\BaseBusiness.dll
+D:\GIT\NVTHAO\1.BMS Inventory Code\BaseBusiness\bin\x86\Debug\BaseBusiness.pdb
+D:\GIT\NVTHAO\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.csprojResolveAssemblyReference.cache
+D:\GIT\NVTHAO\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.Properties.Resources.resources
+D:\GIT\NVTHAO\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS._Forms.resources
+D:\GIT\NVTHAO\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS._UserControls.resources
+D:\GIT\NVTHAO\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupBase.resources
+D:\GIT\NVTHAO\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.frmPopupSearch.resources
+D:\GIT\NVTHAO\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.PopupBox.resources
+D:\GIT\NVTHAO\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BMS.PopupBoxPublic.resources
+D:\GIT\NVTHAO\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.csproj.GenerateResource.Cache
+D:\GIT\NVTHAO\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.dll
+D:\GIT\NVTHAO\1.BMS Inventory Code\BaseBusiness\obj\x86\Debug\BaseBusiness.pdb

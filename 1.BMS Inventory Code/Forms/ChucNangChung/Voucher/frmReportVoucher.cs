@@ -310,7 +310,7 @@ namespace BMS
                 {
                     string sql = "SELECT TOP 1 [C_NGAYLAP]"
                     + " FROM [tanphat].[dbo].[V_XNTC_VUVIEC] with (nolock)"
-                    + " where [C_MA] = '" + poCode + "' and FK_TKNO LIKE '133%' and [C_SOCT] = 'DACOBG'";
+                    + " where [C_MA] = '" + poCode + "' and FK_TKNO LIKE '133%' and [FK_PHANXUONG] = 115";
 
                     DateTime? dateNgayLap = TextUtils.ToDate2(LibIE.ExcuteScalar(sql));
                     if (dateNgayLap.HasValue)
