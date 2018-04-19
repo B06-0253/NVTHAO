@@ -260,7 +260,7 @@ namespace BMS
             {
                 //string sql = string.Format("select * from vImportMaterial a with(nolock) where (a.Status >= 3) and a.DateKCS is not null and a.Year = {0} {1} order by a.Year"
                 // , TextUtils.ToInt(cboYear.SelectedItem), cboMonth.SelectedIndex > 0 ? " and a.Month = " + cboMonth.SelectedIndex : "");
-                string sql = string.Format("Exec spReportPartQuanlity {0},{1}", TextUtils.ToInt(cboYear.SelectedItem), cboMonth.SelectedIndex);
+                string sql = string.Format("Exec spReportPartQuanlityNew {0},{1}", TextUtils.ToInt(cboYear.SelectedItem), cboMonth.SelectedIndex);
                 DataTable dt = LibQLSX.Select(sql);
 
                 if (dt.Rows.Count == 0) return;
