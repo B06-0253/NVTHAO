@@ -199,7 +199,7 @@ namespace BMS
             frm.Content = mailContent;
             frm.To = "khsx@tpa.com.vn";
             frm.CC = //"info@tpa.com.vn";
-                "vt@tpa.com.vn;tk1@tpa.com.vn;tk2@tpa.com.vn;kd1@tpa.com.vn;kd2@tpa.com.vn;";
+                "vt@tpa.com.vn;tk2@tpa.com.vn;thao.m@tpa.com.vn;hien.t@tpa.com.vn;";
             frm.Subject = "(" + string.Join(", ", listProject.ToArray()) + ") - " + Path.GetFileNameWithoutExtension(txtDMVTPath.Text);
             if (frm.ShowDialog() == DialogResult.OK)
             {

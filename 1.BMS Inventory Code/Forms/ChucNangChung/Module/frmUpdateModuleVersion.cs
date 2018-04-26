@@ -130,8 +130,7 @@ namespace BMS
                                 
             frmSendEmailAttach frm = new frmSendEmailAttach();
             frm.Content = mailContent;
-            frm.To = //"info@tpa.com.vn"; 
-            "vt@tpa.com.vn;tk1@tpa.com.vn;tk2@tpa.com.vn;khsx@tpa.com.vn;kd1@tpa.com.vn;kd2@tpa.com.vn;";
+            frm.To = "vt@tpa.com.vn;tk2@tpa.com.vn;khsx@tpa.com.vn;thao.m@tpa.com.vn;hien.t@tpa.com.vn;";
             frm.Subject = "(" + projectString + ") - Update " + Module.Code;
             if (frm.ShowDialog() == DialogResult.OK)
             {

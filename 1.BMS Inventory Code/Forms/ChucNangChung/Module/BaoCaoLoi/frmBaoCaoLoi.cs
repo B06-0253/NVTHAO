@@ -635,7 +635,7 @@ namespace BMS
                 frmSendEmailAttach frm = new frmSendEmailAttach();
                 frm.To = "kcs@tpa.com.vn";
                 //frm.CC = "info@tpa.com.vn";
-                frm.CC = "vt@tpa.com.vn;tk1@tpa.com.vn;tk2@tpa.com.vn;sxlr@tpa.com.vn;";
+                frm.CC = "vt@tpa.com.vn;tk1@tpa.com.vn;tk2@tpa.com.vn;sxlr@tpa.com.vn;khsx@tpa.com.vn;van.p@tpa.com.vn;";
                 frm.Subject = string.Format("ERROR REPORT - {0} - {1} - Đã khắc phục", errorModel.Code, product.Code);
                 DataTable dtConfig = TextUtils.Select("select KeyValue from [ConfigSystem] where [KeyName]='TKToKCS_Email'");
                 string content = dtConfig.Rows[0][0].ToString();
