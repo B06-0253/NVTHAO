@@ -115,15 +115,15 @@ namespace BMS
 
         private void btnDel_Click(object sender, EventArgs e)
         {
-            string id = TextUtils.ToString(grvData.GetFocusedRowCellValue(colSupplierId));
-            if (id == "") return;
-            if (MessageBox.Show("Bạn có chắc muốn xóa nhà CC [" + grvData.GetFocusedRowCellValue(colName).ToString() + "] không?",
-                      TextUtils.Caption, MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.No)
-                return;
-            SuppliersModel model = (SuppliersModel)SuppliersBO.Instance.FindByPKStringID("SupplierId", id);
-            model.StatusDisable = 1;
-            SuppliersBO.Instance.UpdateQLSX(model);
-            LoadInfoSearch();
+            //string id = TextUtils.ToString(grvData.GetFocusedRowCellValue(colSupplierId));
+            //if (id == "") return;
+            //if (MessageBox.Show("Bạn có chắc muốn xóa nhà CC [" + grvData.GetFocusedRowCellValue(colName).ToString() + "] không?",
+            //          TextUtils.Caption, MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.No)
+            //    return;
+            //SuppliersModel model = (SuppliersModel)SuppliersBO.Instance.FindByPKStringID("SupplierId", id);
+            //model.StatusDisable = 1;
+            //SuppliersBO.Instance.UpdateQLSX(model);
+            //LoadInfoSearch();
         }
 
         private void btnExcel_Click(object sender, EventArgs e)

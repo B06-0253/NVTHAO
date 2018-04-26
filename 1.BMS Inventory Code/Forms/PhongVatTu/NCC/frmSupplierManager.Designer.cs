@@ -144,6 +144,7 @@
             this.btnAdd.Tag = "frmSupplierManager_Add";
             this.btnAdd.Text = "Tạo NCC";
             this.btnAdd.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnAdd.Visible = false;
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // toolStripSeparator6
@@ -178,6 +179,7 @@
             this.btnDel.Tag = "frmSupplierManager_Delete";
             this.btnDel.Text = "Xóa NCC";
             this.btnDel.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnDel.Visible = false;
             this.btnDel.Click += new System.EventHandler(this.btnDel_Click);
             // 
             // toolStripSeparator2
