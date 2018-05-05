@@ -999,7 +999,7 @@ namespace BMS
                                 int error = TextUtils.ToInt(grvVT.GetRowCellValue(i, colMaError));
                                 int kph = TextUtils.ToInt(grvVT.GetRowCellValue(i, colMaKPH));
 
-                                if (error > 0 || kph > 0)
+                                if (error > 0)
                                 {
                                     DataRow drError = _dtError.NewRow();
                                     drError["Code"] = code;
@@ -1104,7 +1104,7 @@ namespace BMS
                                 int error = TextUtils.ToInt(grvModule.GetRowCellValue(i, colMError));
                                 int kph = TextUtils.ToInt(grvModule.GetRowCellValue(i, colMKPH));
 
-                                if (error > 0 || kph > 0)
+                                if (error > 0)
                                 {
                                     DataRow drError = _dtError.NewRow();
                                     drError["Code"] = code;
@@ -1798,7 +1798,7 @@ namespace BMS
                                 int error = TextUtils.ToInt(grvVT.GetRowCellValue(i, colMaError));
                                 int kph = TextUtils.ToInt(grvVT.GetRowCellValue(i, colMaKPH));
 
-                                if (error > 0 || kph > 0)
+                                if (error > 0)
                                 {
                                     DataRow drError = _dtError.NewRow();
                                     drError["Code"] = code;
@@ -1907,7 +1907,7 @@ namespace BMS
                                 int error = TextUtils.ToInt(grvModule.GetRowCellValue(i, colMError));
                                 int kph = TextUtils.ToInt(grvModule.GetRowCellValue(i, colMKPH));
 
-                                if (error > 0 || kph > 0)
+                                if (error > 0)
                                 {
                                     DataRow drError = _dtError.NewRow();
                                     drError["Code"] = code;
