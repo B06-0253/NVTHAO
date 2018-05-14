@@ -276,9 +276,9 @@ namespace BMS
                 if (completeDate != "") continue;
                 if (payVoucherID == 1)//Nợ hóa đơn
                 {
-                    string sqlTotalVat = "SELECT TotalVAT = case when dbo.vOrder.IsTranferAfferVAT = 1 then isnull(dbo.vOrder.VAT,10)*dbo.vOrder.TotalPrice /100" +
-                                            " else isnull(dbo.vOrder.VAT,10)*(dbo.vOrder.TotalPrice+dbo.vOrder.DeliveryCost)/100 end " +
-                                            " from vOrder where vOrder.OrderCode = '" + poCode + "'";
+                    string sqlTotalVat = "SELECT TotalVAT = case when dbo.vOrderNew.IsTranferAfferVAT = 1 then isnull(dbo.vOrderNew.VAT,10)*dbo.vOrderNew.TotalPrice /100" +
+                                            " else isnull(dbo.vOrderNew.VAT,10)*(dbo.vOrderNew.TotalPrice+dbo.vOrderNew.DeliveryCost)/100 end " +
+                                            " from vOrderNew with(nolock) where vOrderNew.OrderCode = '" + poCode + "'";
                     string sqlInvoice = "select sum(T_XNTC.C_PSNO) FROM T_XNTC INNER JOIN T_DM_VUVIEC ON T_XNTC.FK_VUVIEC = T_DM_VUVIEC.PK_ID" +
                             " WHERE (T_DM_VUVIEC.C_MA = '" + poCode + "') AND (T_XNTC.FK_TKNO LIKE '133%')";
 
