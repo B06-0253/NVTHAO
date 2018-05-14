@@ -297,11 +297,12 @@ namespace BMS
                         workSheet.Cells[4, 16] = TextUtils.ToString(dt.Rows[i]["UserNameKCS"]);
                         workSheet.Cells[4, 17] = TextUtils.ToString(dt.Rows[i]["UserNameDNNK"]);
                         workSheet.Cells[4, 18] = TextUtils.ToString(dt.Rows[i]["SupplierCode"]) + " - " + TextUtils.ToString(dt.Rows[i]["SupplierName"]);
-                        workSheet.Cells[4, 19] = TextUtils.ToDate3(dt.Rows[i]["DateCreate"]).ToString("dd/MM/yyyy");
-                        workSheet.Cells[4, 20] = TextUtils.ToDate3(dt.Rows[i]["DateKCS"]).ToString("dd/MM/yyyy");
 
-                        workSheet.Cells[4, 21] = TextUtils.ToDate3(dt.Rows[i]["DateAboutE"]).ToString("dd/MM/yyyy");
-                        workSheet.Cells[4, 22] = TextUtils.ToDate3(dt.Rows[i]["DateAboutF"]).ToString("dd/MM/yyyy");
+                        workSheet.Cells[4, 19] = dt.Rows[i]["DateCreate"] == null ? "" : TextUtils.ToDate3(dt.Rows[i]["DateCreate"]).ToString("dd/MM/yyyy");
+                        workSheet.Cells[4, 20] = dt.Rows[i]["DateKCS"] == null ? "" : TextUtils.ToDate3(dt.Rows[i]["DateKCS"]).ToString("dd/MM/yyyy");
+                        workSheet.Cells[4, 21] = dt.Rows[i]["DateAboutE"] == null ? "" : TextUtils.ToDate3(dt.Rows[i]["DateAboutE"]).ToString("dd/MM/yyyy");
+                        workSheet.Cells[4, 22] = dt.Rows[i]["DateAboutF"] == null ? "" : TextUtils.ToDate3(dt.Rows[i]["DateAboutF"]).ToString("dd/MM/yyyy");
+
                         workSheet.Cells[4, 23] = "";
                         workSheet.Cells[4, 24] = TextUtils.ToDecimal(dt.Rows[i]["Price"]);
                         workSheet.Cells[4, 25] = TextUtils.ToDecimal(dt.Rows[i]["Total"]) * TextUtils.ToDecimal(dt.Rows[i]["Price"]);
