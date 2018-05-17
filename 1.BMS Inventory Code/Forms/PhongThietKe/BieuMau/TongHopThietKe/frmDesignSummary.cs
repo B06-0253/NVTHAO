@@ -92,7 +92,11 @@ namespace BMS
                 txtProductNameTK.Text = DesignSummary.ProductNameTK;
 
                 loadDatatableHD(DesignSummary.ProjectCode);
-            }           
+            }
+            else
+            {
+                cboBoPhanTH.SelectedValue = 18;//Phòng tk2
+            }
 
             loadItem(0);
             loadItem(1);
@@ -167,7 +171,7 @@ namespace BMS
                 cboBoPhanTH.DisplayMember = "Name";
 
                 cboBoPhanYC.SelectedValue = 5;//mặc định là phòng dự án
-                cboBoPhanTH.SelectedValue = 1;//mặc định là phòng thiết kế
+                cboBoPhanTH.SelectedValue = 18;//mặc định là phòng thiết kế
             }
             catch (Exception)
             {

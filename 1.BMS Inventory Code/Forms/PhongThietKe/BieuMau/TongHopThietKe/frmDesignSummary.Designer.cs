@@ -812,6 +812,7 @@
             this.txtLanBanHanh.Name = "txtLanBanHanh";
             this.txtLanBanHanh.Size = new System.Drawing.Size(128, 20);
             this.txtLanBanHanh.TabIndex = 10;
+            this.txtLanBanHanh.Text = "01";
             // 
             // label13
             // 
