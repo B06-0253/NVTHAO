@@ -3746,3 +3746,4 @@ D:\GIT\NVTHAO\1.BMS Inventory Code\Forms\obj\x86\Debug\Forms.csproj.GenerateReso
 D:\GIT\NVTHAO\1.BMS Inventory Code\Forms\obj\x86\Debug\Forms.dll.licenses
 D:\GIT\NVTHAO\1.BMS Inventory Code\Forms\obj\x86\Debug\Forms.dll
 D:\GIT\NVTHAO\1.BMS Inventory Code\Forms\obj\x86\Debug\Forms.pdb
+D:\GIT\NVTHAO\1.BMS Inventory Code\Forms\obj\x86\Debug\BMS.frmReportNXT.resources

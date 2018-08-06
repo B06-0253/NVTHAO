@@ -62,3 +62,10 @@ D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources
 D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
 D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
 D:\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csprojResolveAssemblyReference.cache
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.Cache
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\GIT\NVTHAO\1.BMS Inventory Code\IEBusiness\obj\x86\Debug\IEBusiness.pdb

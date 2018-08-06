@@ -574,6 +574,12 @@
     <Compile Include="PhongKeToan\frmTongHopChucNangKeToan.designer.cs">
       <DependentUpon>frmTongHopChucNangKeToan.cs</DependentUpon>
     </Compile>
+    <Compile Include="PhongKeToan\KHO\frmReportNXT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhongKeToan\KHO\frmReportNXT.Designer.cs">
+      <DependentUpon>frmReportNXT.cs</DependentUpon>
+    </Compile>
     <Compile Include="PhongKeToan\VP\FCM\frmFCMdetail.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -2040,6 +2046,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="PhongKeToan\frmTongHopChucNangKeToan.resx">
       <DependentUpon>frmTongHopChucNangKeToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhongKeToan\KHO\frmReportNXT.resx">
+      <DependentUpon>frmReportNXT.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PhongKeToan\VP\FCM\frmFCMdetail.resx">
       <DependentUpon>frmFCMdetail.cs</DependentUpon>

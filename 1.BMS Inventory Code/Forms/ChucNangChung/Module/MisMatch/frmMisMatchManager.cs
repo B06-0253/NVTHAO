@@ -660,5 +660,10 @@ namespace BMS
             }
         } 
         #endregion
+
+        private void btnExcel_Click(object sender, EventArgs e)
+        {
+            TextUtils.ExportExcel(grvData);
+        }
     }
 }
