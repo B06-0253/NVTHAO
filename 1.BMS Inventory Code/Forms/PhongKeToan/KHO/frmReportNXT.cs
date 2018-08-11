@@ -37,7 +37,7 @@ namespace BMS
 
             _paraName[0] = "@Type"; _paraValue[0] = TextUtils.ToInt(cboType.SelectedIndex);
 
-            _dtData = LibIE.LoadDataFromSP("spGetReportNXT", "Source", _paraName, _paraValue);
+            _dtData = LibIE.LoadDataFromSP("spGetReportNXT1", "Source", _paraName, _paraValue);
             grdData.DataSource = _dtData;
             if (_rownIndex >= grvData.RowCount)
                 _rownIndex = 0;
@@ -145,35 +145,36 @@ namespace BMS
         {
             if (e.RowHandle < 0) return;
             GridView View = sender as GridView;
-            DateTime ngayLap = TextUtils.ToDate(View.GetRowCellValue(e.RowHandle, colC_NGAYLAP).ToString());
+            //DateTime ngayLap = TextUtils.ToDate(View.GetRowCellValue(e.RowHandle, colC_NGAYLAP).ToString());
             decimal chenhLech = TextUtils.ToDecimal(View.GetRowCellValue(e.RowHandle, colChenhLech));
             
             if (chenhLech <= 0)
             {
                 e.Appearance.BackColor = Color.GreenYellow;
             }
-            else
-            {
-                TimeSpan span = DateTime.Now.Date - ngayLap.Date;
-                int totalDay = span.Days;
-                if (totalDay >= 7)
-                {
-                    e.Appearance.BackColor = Color.Yellow;
-                }
-            }
+            //else
+            //{
+            //    TimeSpan span = DateTime.Now.Date - ngayLap.Date;
+            //    int totalDay = span.Days;
+            //    if (totalDay >= 7)
+            //    {
+            //        e.Appearance.BackColor = Color.Yellow;
+            //    }
+            //}
         }
 
         private void grvData_FocusedRowChanged(object sender, DevExpress.XtraGrid.Views.Base.FocusedRowChangedEventArgs e)
         {
-            string[] _paraName = new string[3];
-            object[] _paraValue = new object[3];
+            string[] _paraName = new string[1];
+            object[] _paraValue = new object[1];
 
-            _paraName[0] = "@VthhID"; _paraValue[0] = TextUtils.ToInt(grvData.GetFocusedRowCellValue(colFK_VTHH));
-            _paraName[1] = "@DtcpID"; _paraValue[1] = TextUtils.ToInt(grvData.GetFocusedRowCellValue(colFK_DTCP));
-            _paraName[2] = "@ProjectCode"; _paraValue[2] = TextUtils.ToString(grvData.GetFocusedRowCellValue(colDuAn));
+            _paraName[0] = "@VthhID"; _paraValue[0] = TextUtils.ToInt(grvData.GetFocusedRowCellValue(colFK_VTHH));          
 
-            DataTable dt = LibIE.LoadDataFromSP("spGetXT", "Source", _paraName, _paraValue);
-            grdXuat.DataSource = dt;
+            DataTable dtXT = LibIE.LoadDataFromSP("spGetXT", "Source", _paraName, _paraValue);
+            grdXuat.DataSource = dtXT;
+
+            DataTable dtNT = LibIE.LoadDataFromSP("spGetNT", "Source", _paraName, _paraValue);
+            grdNhap.DataSource = dtNT;
         }
 
     }
