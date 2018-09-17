@@ -338,6 +338,12 @@ namespace BMS
                 try
                 {
                     string localFilePath = @"D:\Thietke.Dt\PCB." + _productCodeDT.Substring(0, 1) + @"\PCB." + _productCodeDT + @"\PRD.PCB." + _productCodeDT + @"\";
+                    if (!Directory.Exists(localFilePath))
+                    {
+                        fWait.Close();
+                        MessageBox.Show("Bạn phải tạo cấu trúc thiết kế trước.", "Thông báo");
+                        return;
+                    }
                     string fileName = "KTMI.PCB." + _productCodeDT + ".docm";
                     try
                     {
@@ -403,6 +409,12 @@ namespace BMS
                 try
                 {
                     string localFilePath = @"D:\Thietke.Dt\PCB." + _productCodeDT.Substring(0, 1) + @"\PCB." + _productCodeDT + @"\PRD.PCB." + _productCodeDT + @"\";
+                    if (!Directory.Exists(localFilePath))
+                    {
+                        fWait.Close();
+                        MessageBox.Show("Bạn phải tạo cấu trúc thiết kế trước.", "Thông báo");
+                        return;
+                    }
                     string fileName = "KTCL.PCB." + _productCodeDT + ".docm";
                     try
                     {
@@ -454,6 +466,12 @@ namespace BMS
                 try
                 {
                     string localFilePath = @"D:\Thietke.Dt\PCB." + _productCodeDT.Substring(0, 1) + @"\PCB." + _productCodeDT + @"\PRD.PCB." + _productCodeDT + @"\";
+                    if (!Directory.Exists(localFilePath))
+                    {
+                        fWait.Close();
+                        MessageBox.Show("Bạn phải tạo cấu trúc thiết kế trước.", "Thông báo");
+                        return;
+                    }
                     string fileName = "LR.PCB." + _productCodeDT + ".docm";
                     try
                     {
@@ -571,6 +589,12 @@ namespace BMS
                 try
                 {
                     string localFilePath = @"D:\Thietke.Dt\PCB." + _productCodeDT.Substring(0, 1) + @"\PCB." + _productCodeDT + @"\PRD.PCB." + _productCodeDT + @"\";
+                    if (!Directory.Exists(localFilePath))
+                    {
+                        fWait.Close();
+                        MessageBox.Show("Bạn phải tạo cấu trúc thiết kế trước.", "Thông báo");
+                        return;
+                    }
                     string fileName = "HS.PCB." + _productCodeDT + ".docm";
                     try
                     {
@@ -628,6 +652,12 @@ namespace BMS
                 try
                 {
                     string localFilePath = @"D:\Thietke.Dt\PCB." + _productCodeDT.Substring(0, 1) + @"\PCB." + _productCodeDT + @"\PRJ.PCB." + _productCodeDT + @"\";
+                    if (!Directory.Exists(localFilePath))
+                    {
+                        fWait.Close();
+                        MessageBox.Show("Bạn phải tạo cấu trúc thiết kế trước.", "Thông báo");
+                        return;
+                    }
                     string fileName = "KTNL.PCB." + _productCodeDT + ".docm";
                     try
                     {
@@ -688,6 +718,12 @@ namespace BMS
                 try
                 {
                     string localFilePath = @"D:\Thietke.Dt\PCB." + _productCodeDT.Substring(0, 1) + @"\PCB." + _productCodeDT + @"\PRJ.PCB." + _productCodeDT + @"\";
+                    if (!Directory.Exists(localFilePath))
+                    {
+                        fWait.Close();
+                        MessageBox.Show("Bạn phải tạo cấu trúc thiết kế trước.", "Thông báo");
+                        return;
+                    }
                     string fileName = "TTNL.PCB." + _productCodeDT + ".docm";
                     try
                     {
@@ -740,6 +776,12 @@ namespace BMS
                 try
                 {
                     string localFilePath = @"D:\Thietke.Dt\PCB." + _productCodeDT.Substring(0, 1) + @"\PCB." + _productCodeDT + @"\PRJ.PCB." + _productCodeDT + @"\";
+                    if (!Directory.Exists(localFilePath))
+                    {
+                        fWait.Close();
+                        MessageBox.Show("Bạn phải tạo cấu trúc thiết kế trước.", "Thông báo");
+                        return;
+                    }
                     string fileName = "PATK-C.PCB." + _productCodeDT + ".docm";
                     try
                     {
@@ -791,6 +833,12 @@ namespace BMS
                 try
                 {
                     string localFilePath = @"D:\Thietke.Dt\PCB." + _productCodeDT.Substring(0, 1) + @"\PCB." + _productCodeDT + @"\PRJ.PCB." + _productCodeDT + @"\";
+                    if (!Directory.Exists(localFilePath))
+                    {
+                        fWait.Close();
+                        MessageBox.Show("Bạn phải tạo cấu trúc thiết kế trước.", "Thông báo");
+                        return;
+                    }
                     string fileName = "PATK-CN.PCB." + _productCodeDT + ".docm";
                     try
                     {
@@ -842,6 +890,12 @@ namespace BMS
                 try
                 {
                     string localFilePath = @"D:\Thietke.Dt\PCB." + _productCodeDT.Substring(0, 1) + @"\PCB." + _productCodeDT + @"\PRJ.PCB." + _productCodeDT + @"\";
+                    if (!Directory.Exists(localFilePath))
+                    {
+                        fWait.Close();
+                        MessageBox.Show("Bạn phải tạo cấu trúc thiết kế trước.", "Thông báo");
+                        return;
+                    }
                     string fileName = "PATK-LK.PCB." + _productCodeDT + ".docm";
                     try
                     {

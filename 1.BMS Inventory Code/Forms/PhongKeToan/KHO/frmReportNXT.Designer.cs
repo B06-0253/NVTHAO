@@ -586,7 +586,7 @@
             this.repositoryItemTextEdit2,
             this.repositoryItemCheckEdit2,
             this.repositoryItemGridLookUpEdit2});
-            this.grdXuat.Size = new System.Drawing.Size(594, 263);
+            this.grdXuat.Size = new System.Drawing.Size(578, 263);
             this.grdXuat.TabIndex = 199;
             this.grdXuat.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.grvXuat});
@@ -969,11 +969,11 @@
             // 
             // splitContainer2.Panel1
             // 
-            this.splitContainer2.Panel1.Controls.Add(this.grdXuat);
+            this.splitContainer2.Panel1.Controls.Add(this.grdNhap);
             // 
             // splitContainer2.Panel2
             // 
-            this.splitContainer2.Panel2.Controls.Add(this.grdNhap);
+            this.splitContainer2.Panel2.Controls.Add(this.grdXuat);
             this.splitContainer2.Size = new System.Drawing.Size(1192, 274);
             this.splitContainer2.SplitterDistance = 600;
             this.splitContainer2.TabIndex = 218;
@@ -984,7 +984,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.grdNhap.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.grdNhap.Location = new System.Drawing.Point(5, 5);
+            this.grdNhap.Location = new System.Drawing.Point(4, 6);
             this.grdNhap.MainView = this.grvNhap;
             this.grdNhap.Name = "grdNhap";
             this.grdNhap.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
@@ -992,7 +992,7 @@
             this.repositoryItemTextEdit3,
             this.repositoryItemCheckEdit3,
             this.repositoryItemGridLookUpEdit3});
-            this.grdNhap.Size = new System.Drawing.Size(578, 263);
+            this.grdNhap.Size = new System.Drawing.Size(593, 263);
             this.grdNhap.TabIndex = 199;
             this.grdNhap.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.grvNhap});
@@ -1253,7 +1253,7 @@
             // 
             this.gridColumn32.AppearanceHeader.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
             this.gridColumn32.AppearanceHeader.Options.UseFont = true;
-            this.gridColumn32.Caption = "Số lượng xuất";
+            this.gridColumn32.Caption = "Số lượng nhập";
             this.gridColumn32.DisplayFormat.FormatString = "n2";
             this.gridColumn32.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
             this.gridColumn32.FieldName = "SLX";

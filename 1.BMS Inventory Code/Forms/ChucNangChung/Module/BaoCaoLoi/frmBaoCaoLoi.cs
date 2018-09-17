@@ -376,7 +376,7 @@ namespace BMS
                 catch
                 {
                     //departmentMailGL = "info@tpa.com.vn";
-                    departmentMailGL = "vt@tpa.com.vn;tk1@tpa.com.vn;tk2@tpa.com.vn;sxlr@tpa.com.vn;";
+                    departmentMailGL = "vt@tpa.com.vn;tk1@tpa.com.vn;tk2@tpa.com.vn;sxlr@tpa.com.vn;service@tpa.com.vn";
                 }
                 ModulesModel product = (ModulesModel)ModulesBO.Instance.FindByAttribute("Code", grvData.GetRowCellValue(index, colModuleCode).ToString())[0];
                 string productCode = product.Code;

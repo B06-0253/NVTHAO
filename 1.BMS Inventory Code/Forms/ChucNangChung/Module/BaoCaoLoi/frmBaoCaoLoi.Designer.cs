@@ -100,9 +100,9 @@
             this.colIsDownloaded = new DevExpress.XtraGrid.Columns.GridColumn();
             this.colGroupNameTQ = new DevExpress.XtraGrid.Columns.GridColumn();
             this.colSupplier = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colSupplierId = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.btnSearch = new System.Windows.Forms.Button();
-            this.colSupplierId = new DevExpress.XtraGrid.Columns.GridColumn();
             this.mnuMenu.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.grdData)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
@@ -190,7 +190,7 @@
             this.btnDelete.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(48, 33);
-            this.btnDelete.Tag = "frmBaoCaoLoi_Delete";
+            this.btnDelete.Tag = "";
             this.btnDelete.Text = "Xóa lỗi";
             this.btnDelete.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
@@ -377,7 +377,7 @@
             this.xemẢnhLỗiToolStripMenuItem,
             this.huỷChoPhépDownloadTàiLiệuToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(244, 202);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(244, 180);
             // 
             // gửiMailToolStripMenuItem
             // 
@@ -1074,6 +1074,12 @@
             this.colSupplier.VisibleIndex = 25;
             this.colSupplier.Width = 250;
             // 
+            // colSupplierId
+            // 
+            this.colSupplierId.Caption = "SupplierId";
+            this.colSupplierId.FieldName = "SupplierId";
+            this.colSupplierId.Name = "colSupplierId";
+            // 
             // gridColumn1
             // 
             this.gridColumn1.AppearanceHeader.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold);
@@ -1098,12 +1104,6 @@
             this.btnSearch.Text = "Tìm kiếm";
             this.btnSearch.UseVisualStyleBackColor = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
-            // 
-            // colSupplierId
-            // 
-            this.colSupplierId.Caption = "SupplierId";
-            this.colSupplierId.FieldName = "SupplierId";
-            this.colSupplierId.Name = "colSupplierId";
             // 
             // frmBaoCaoLoi
             // 
